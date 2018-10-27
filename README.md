@@ -5,10 +5,3 @@ This is a field about Physics. Maybe I will write in Chinese, perhaps in English
 
 &emsp; Lu Niu  
 LukeNiu@outlook.com
-
-## Relativity
-
-如果一个事件从一个参考系观测可以发生, 从另一个参考系观测必然也可以发生. 事件的发生与否与参考系的选取无关.  
-&emsp; &emsp; &emsp; &emsp; box 君 @ PKU, 2018
-
-第二个
