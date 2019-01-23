@@ -8,12 +8,17 @@ LukeNiu@outlook.com
 
 ## Relativity
 
+To Einstein, it was very obvious that nature would not design a system, in which mechanical laws are the same, but laws of electricity are different.  
+&emsp; &emsp; &emsp; &emsp; - Ramamurti Shankar @ YALE
+
+We have faith that the underlying laws of nature will have a certain elegance and a certain beauty, and a certain uniformity across all of natural phenomena. That is a faith that we have. It is not a religious issue.  
+&emsp; &emsp; &emsp; &emsp; - Ramamurti Shankar @ YALE
+
 如果一个事件从一个参考系观测可以发生, 从另一个参考系观测必然也可以发生. 事件的发生与否与参考系的选取无关.  
 &emsp; &emsp; &emsp; &emsp; - box 君 @ PKU
 
 ## Mathematical Physics
 
-如果说数学是大自然的语言, 那么物理就是大自然的诗歌.  
 It is said that mathematics is the language of Nature. If so, then physics
 is its poetry.  
 &emsp; &emsp; &emsp; &emsp; - Sadri Hassani
