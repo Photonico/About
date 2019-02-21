@@ -23,4 +23,7 @@ It is said that mathematics is the language of Nature. If so, then physics
 is its poetry.  
 &emsp; &emsp; &emsp; &emsp; - Sadri Hassani
 
+数学是一门赋予不同事物相同名称的艺术.
+&emsp; &emsp; &emsp; &emsp; - 庞加莱
+
 test
