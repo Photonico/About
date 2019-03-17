@@ -6,13 +6,15 @@
 
 * The Feynman Lecture on Physics Ⅰ, R.Feynman.
 
-* 
+* Fundamentals of Physics, R.Shankar.
 
 ### Classical Physics
 
 ### Electrodynamics
 
 ### Quantum Mechanics
+
+* The Principle of Quantum Mechanics, R.Shankar.
 
 ### Statistical Mechanics
 
