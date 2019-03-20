@@ -4,5 +4,12 @@
 
 This field is used to collect and express thoughts. 
 
+## My Research Interest
+
+* Quantum Optics
+* Quantum Plasmonics
+* Quantum Computation
+* Algorithms
+
 &emsp; Lu Niu  
 LukeNiu@outlook.com
