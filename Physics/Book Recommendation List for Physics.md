@@ -28,7 +28,9 @@
 
 ### Atom Molecular Optics
 
-### Mathematics Method
+## Mathematics
+
+### Analysis
 
 * Analyis Ⅰ, T.Tao.
 
@@ -38,9 +40,17 @@
 
 * Mathematical Physics, S.Hassani
 
+### Algebra
+
 * 数学分析新讲, 张筑生.
 
 * 高等代数, 丘维声.
+
+### Geometry and Topology
+
+* Geometry Topology and Physics, Mikio Nakahara.
+
+* Topology and Physics, Chenning Yang.
 
 ## Computer Science Method
 
@@ -49,3 +59,7 @@
 * Mastering TensorFlow 1.x, A.Fandango.
 
 * Algorithms in a Nutshell, G.T.Heineman, G.Pollice, S.Selkow.
+
+## Other
+
+* On Writing Well, William Zinsser.

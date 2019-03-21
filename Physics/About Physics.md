@@ -11,6 +11,10 @@ LukeNiu@outlook.com
 物理学是研究物质, 能量, 和它们的相互作用的学科.
 &emsp; &emsp; &emsp; &emsp; - 第23界国际纯粹物理与应用物理脸和会议决议, 1999, @ 亚特兰大.
 
+It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong!
+&emsp; &emsp; &emsp; &emsp; - Richard Feynman.
+
+
 物理学代表着一套获得知识, 组织知识和运用知识的有效步骤和方法. 把这套方法运用到什么问题上, 这问题就变成了物理学.
 &emsp; &emsp; &emsp; &emsp; - 赵凯华.
 
