@@ -4,25 +4,35 @@
 
 ### General Physics
 
-* The Feynman Lecture on Physics vol1, R.Feynman.
+* The Feynman Lecture on Physics vol1, Richard Feynman.
 
-* Fundamentals of Physics, R.Shankar.
+* Fundamentals of Physics, Ramamurti Shankar.
 
 ### Classical Mechanics
 
-* Classical Mechanics, T.Kibble.
+* Classical Mechanics, Tom Kibble.
 
 ### Electrodynamics
 
-* Introduction to Electrodynamics, David Griffiths.
+* Introduction to Electrodynamics, David J. Griffiths.
 
-* The Feynman Lecture on Physics vol2, R.Feynman.
+* The Feynman Lecture on Physics vol2, Richard Feynman.
 
-### Quantum Mechanics
+### Atom Molecular Optics
 
-* The Principle of Quantum Mechanics, R.Shankar.
+### Quantum Mechanics and Advanced Quantum Mechanics
 
-* The Feynman Lecture on Physics vol2, R.Feynman.
+* The Principle of Quantum Mechanics, Ramamurti Shankar.
+
+* The Feynman Lecture on Physics vol3, Richard Feynman.
+
+* Introduction to Quantum Mechanics, David J. Griffiths.
+
+* Modern Quantum Mechanics, J.J. Sakurai.
+
+* Quantum Mechanics, Franz Schwabl.
+
+* Advanced Quantum Mechanics, Franz Schwabl.
 
 ### Statistical Mechanics
 
@@ -30,29 +40,37 @@
 
 ### General Relativity
 
-### Optics and Quantum Optics
+### Quantum Optics
 
 ### Quantum Field Theory
 
-### Condensed Matter Physics
+### Condensed Matter Physics (include Solid Physics and Materials Science)
 
-### Atom Molecular Optics
+固体物理学, 黄昆.
+
+凝聚态物理学 (上), 冯端.
+
+凝聚态物理学 (下), 冯端.
+
+材料科学基础, 余永宁.
+
+### Plasmonics
+
+### Cosmology
 
 ## Mathematics
 
 ### Analysis
 
-* Analyis Ⅰ, Terence Tao.
+* Analysis vol1, Terence Tao.
 
-* Analyis Ⅱ, Terence Tao.
+* Analysis vol2, Terence Tao.
 
-* 数学分析新讲, Zhusheng Zhang.
+* 数学分析新讲, 张筑生.
 
 * Mathematical Analysis and the Mathematics of Computation, W.Römisch, T.Zeugmann.
 
 ### Algebra
-
-* 数学分析新讲, 张筑生.
 
 * 高等代数, 丘维声.
 
@@ -65,6 +83,14 @@
 ### Mathematical Physics
 
 * Mathematical Physics, S.Hassani
+
+### Algorithms
+
+* Introduction to Algorithms, Thomas H.Cormen.
+
+* Algorithms, Robert Sedgewick.
+
+* Algorithms in a Nutshell, George T. Heineman.
 
 ## Computer Science Method
 
