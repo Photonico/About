@@ -4,19 +4,29 @@
 
 ### General Physics
 
-* The Feynman Lecture on Physics Ⅰ, R.Feynman.
+* The Feynman Lecture on Physics vol1, R.Feynman.
 
 * Fundamentals of Physics, R.Shankar.
 
-### Classical Physics
+### Classical Mechanics
+
+* Classical Mechanics, T.Kibble.
 
 ### Electrodynamics
+
+* Introduction to Electrodynamics, David Griffiths.
+
+* The Feynman Lecture on Physics vol2, R.Feynman.
 
 ### Quantum Mechanics
 
 * The Principle of Quantum Mechanics, R.Shankar.
 
+* The Feynman Lecture on Physics vol2, R.Feynman.
+
 ### Statistical Mechanics
+
+* Statistical Mechanics, Franz Schwabl.
 
 ### General Relativity
 
@@ -32,13 +42,13 @@
 
 ### Analysis
 
-* Analyis Ⅰ, T.Tao.
+* Analyis Ⅰ, Terence Tao.
 
-* Analyis Ⅱ, T.Tao.
+* Analyis Ⅱ, Terence Tao.
+
+* 数学分析新讲, Zhusheng Zhang.
 
 * Mathematical Analysis and the Mathematics of Computation, W.Römisch, T.Zeugmann.
-
-* Mathematical Physics, S.Hassani
 
 ### Algebra
 
@@ -51,6 +61,10 @@
 * Geometry Topology and Physics, Mikio Nakahara.
 
 * Topology and Physics, Chenning Yang.
+
+### Mathematical Physics
+
+* Mathematical Physics, S.Hassani
 
 ## Computer Science Method
 
