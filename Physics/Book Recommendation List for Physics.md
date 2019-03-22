@@ -34,6 +34,8 @@
 
 * Advanced Quantum Mechanics, Franz Schwabl.
 
+* Topics in Advanced Quantum Mechanics, Barry R. Holstein.
+
 ### Statistical Mechanics
 
 * Statistical Mechanics, Franz Schwabl.
@@ -57,6 +59,8 @@
 ### Plasmonics
 
 ### Cosmology
+
+### Particle Physics
 
 ## Mathematics
 
