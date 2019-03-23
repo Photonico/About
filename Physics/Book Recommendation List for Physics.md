@@ -8,6 +8,8 @@
 
 * Fundamentals of Physics, Ramamurti Shankar.
 
+* 新概念物理教程, 赵凯华.
+
 ### Classical Mechanics
 
 * Classical Mechanics, Tom Kibble.
@@ -20,7 +22,17 @@
 
 ### Atom Molecular Optics
 
+* Principle of Optics, Max Born.
+
+* 原子物理学, 杨福家.
+
 ### Quantum Mechanics and Advanced Quantum Mechanics
+
+* The Principle of Quantum Mechanics, P.A.M. Dirac.
+
+* Quantum Mechanics, Gennaro Auletta.
+
+* Quantum Mechanics, Claude Cohen-Tannoudji.
 
 * The Principle of Quantum Mechanics, Ramamurti Shankar.
 
@@ -86,11 +98,11 @@
 
 * Geometry Topology and Physics, Mikio Nakahara.
 
-* Topology and Physics, Chenning Yang.
-
 ### Mathematical Physics
 
 * Mathematical Physics, S.Hassani
+
+* Topology and Physics, Chenning Yang.
 
 ### Algorithms
 
