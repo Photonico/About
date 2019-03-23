@@ -82,9 +82,7 @@
 
 ### Analysis
 
-* Analysis vol1, Terence Tao.
-
-* Analysis vol2, Terence Tao.
+* Analysis, Terence Tao.
 
 * 数学分析新讲, 张筑生.
 
