@@ -42,7 +42,11 @@
 
 ### General Relativity
 
+* General Theory of Relativity, P.A.M. Dirac.
+
 ### Quantum Optics
+
+* Quantum Optics, D.F. Walls.
 
 ### Quantum Field Theory
 
