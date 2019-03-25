@@ -1,12 +1,12 @@
-PWD /media/luke/Project/About/Curricula Vitae
+PWD /media/luke/Project/About/Curricula Vitae (Old)
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /media/luke/Project/About/Curricula Vitae/CV.tex
-OUTPUT /media/luke/Project/About/Curricula Vitae/CV.log
-INPUT /media/luke/Project/About/Curricula Vitae/resume.cls
-INPUT /media/luke/Project/About/Curricula Vitae/resume.cls
+INPUT /media/luke/Project/About/Curricula Vitae (Old)/CV.tex
+OUTPUT /media/luke/Project/About/Curricula Vitae (Old)/CV.log
+INPUT /media/luke/Project/About/Curricula Vitae (Old)/resume.cls
+INPUT /media/luke/Project/About/Curricula Vitae (Old)/resume.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
@@ -31,9 +31,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /media/luke/Project/About/Curricula Vitae/CV.aux
-INPUT /media/luke/Project/About/Curricula Vitae/CV.aux
-OUTPUT /media/luke/Project/About/Curricula Vitae/CV.aux
+INPUT /media/luke/Project/About/Curricula Vitae (Old)/CV.aux
+INPUT /media/luke/Project/About/Curricula Vitae (Old)/CV.aux
+OUTPUT /media/luke/Project/About/Curricula Vitae (Old)/CV.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
@@ -47,17 +47,15 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
-OUTPUT /media/luke/Project/About/Curricula Vitae/CV.pdf
+OUTPUT /media/luke/Project/About/Curricula Vitae (Old)/CV.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
-INPUT /media/luke/Project/About/Curricula Vitae/CV.aux
+INPUT /media/luke/Project/About/Curricula Vitae (Old)/CV.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
