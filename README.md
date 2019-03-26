@@ -1,11 +1,13 @@
 # About
 
 这只是我收集或者抒发自己感想的地方.  
-This field is used to collect and express thoughts. 
+This field is used to collect and express thoughts.
 
 ## My Interests
 
 ### Research Interests
+
+&emsp; &emsp; — 我在黑暗中寻找光明~
 
 * Quantum Optics
 * Quantum Plasmonics
@@ -13,6 +15,8 @@ This field is used to collect and express thoughts.
 * Algorithms
 
 ### Other
+
+&emsp; &emsp; — 青春是不会完结的!
 
 * Basketball
 * Painting
@@ -28,5 +32,6 @@ This field is used to collect and express thoughts.
 * QQ: 164362195
 * QQ Group: 436192270
 
-&emsp; Lu Niu
+
+&emsp; Lu Niu  
 LukeNiu@outlook.com
