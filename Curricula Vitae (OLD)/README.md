@@ -1,3 +1,0 @@
-# Curricula Vitae
-
-Curricula Vitae
