@@ -4,12 +4,22 @@
 
 This field is used to collect and express thoughts. 
 
-## My Research Interests
+## My Interests
+
+### Research Interests
 
 * Quantum Optics
 * Quantum Plasmonics
 * Quantum Computation
 * Algorithms
+
+### Other
+
+* Basketball
+* Painting
+* Guitar
+* Mixed Martial Arts
+* DOTA2
 
 &emsp; Lu Niu  
 LukeNiu@outlook.com
