@@ -1,7 +1,6 @@
 # About
 
 这只是我收集或者抒发自己感想的地方.  
-
 This field is used to collect and express thoughts. 
 
 ## My Interests
@@ -21,5 +20,13 @@ This field is used to collect and express thoughts.
 * Mixed Martial Arts
 * DOTA2
 
-&emsp; Lu Niu  
+## Contact Me
+
+* GitHub: ConAntares
+* Wechat: ConAntares
+* Zhihu: Luke Neo
+* QQ: 164362195
+* QQ Group: 436192270
+
+&emsp; Lu Niu
 LukeNiu@outlook.com
