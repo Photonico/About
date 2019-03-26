@@ -10,7 +10,7 @@ This field is used to collect and express thoughts.
 * Quantum Optics
 * Quantum Plasmonics
 * Quantum Computation
-* Algorithms
+* Algorithms  
 &emsp; &emsp; — 我在黑暗中寻找光明~
 
 ### Other
@@ -19,7 +19,7 @@ This field is used to collect and express thoughts.
 * Painting
 * Guitar
 * Mixed Martial Arts
-* DOTA2
+* DOTA2  
 &emsp; &emsp; — 青春是不会完结的!
 
 ## Contact Me
