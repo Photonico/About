@@ -3,27 +3,142 @@
 % Email: LukeNiu@outlook.com
 % GitHub: https://github.com/ConAntares
 
-\documentclass[12pt,a4paper]{report}
+\documentclass[12pt,a4paper,utf8]{report}
 \usepackage[dvipsnames]{xcolor}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
 \usepackage{geometry}
+\usepackage{framed}
 \usepackage{color}
-\usepackage{frame}
+\usepackage{tabto}
+\usepackage{crimson}    % serif font
+\usepackage{helvet}     % sans serif font
 
-\geometry{left=2.0cm,right=2.0cm,top=2.0cm,bottom=2.0cm}
+\geometry{left=2.0cm,right=2.0cm,top=2.4cm,bottom=2.4cm}
+\pagestyle{fancy}
+\definecolor{shadecolor}{rgb}{0.0,0.5,0.8}
+\linespread{1.0}
 
-\newcommand{\myname}{Lu (Luke) Niu}
+\newcommand{\namefont}[1]{{\usefont{T1}{pbk}{db}{n}
+    \normalfont\bfseries\Huge{#1}}}
+\newcommand{\myname}{Lu Niu}
 \newcommand{\myschool}{The University of Sydney}
-\newcommand{\mystation}{PhD Candidate in Physics}
+\newcommand{\mydegree}{PhD Candidate in Physics}
+\newcommand{\mywork}{Teaching Assistant on Theoretical Mechanics}
+
+\fancyhead[L]{\begin{snugshade}\textcolor{white}{
+    \textsf{\footnotesize{CURRICULUM VITAE}}
+}\end{snugshade}}
+\renewcommand\headrulewidth{0.0pt}
 
 \begin{document}
 
-\myname
+\begin{minipage}[t]{6cm}
+    \begin{center}
+        \vspace{0.0cm}\namefont{\myname}\\[0.1cm]
+        \textit{PhD Candidate in Physics}
+    \end{center}
+\end{minipage}
 
-test
+\begin{minipage}[t]{7cm}
+    \vspace{0.4cm}
+    Department of Physics\\
+    The University of Sydney \\
+    NW, Australia\\
+\end{minipage}
+\begin{minipage}[t]{1.5cm}
+    \vspace{0.4cm}
+    Email: \\
+    Web: \\
+    GitHub: \\
+\end{minipage}
+\begin{minipage}[t]{8cm}
+    \vspace{0.4cm}
+    LukeNiu@outlook.com \\
+    https://github.com/ConAntares \\
+    https://github.com/ConAntares \\
+\end{minipage}
+\vspace{-0.2cm}
 
-hello \TeX
+\begin{minipage}[t]{16cm}
+    \definecolor{shadecolor}{rgb}{0.5,0.8,0.9}
+    \begin{snugshade}{\textcolor{white}{\textsf{\quad 
+        RESEARCH INTEREST
+    \qquad}}}\end{snugshade}
+\end{minipage}\par
+\vspace{0.2cm}\hspace{0.8cm}
+    \begin{minipage}[t]{16cm}
+        \textbf{Quantum Computation:}\par
+        \quad Quantum circuit. \par
+    \vspace{0.2cm}
+        \textbf{Ab Initio:}\par
+        \quad The surface effect of metal nano-particles.
+    \end{minipage}\par
+\vspace{0.4cm}
 
-hello \LaTeX 
+\begin{minipage}[t]{16cm}
+    \definecolor{shadecolor}{rgb}{0.5,0.8,0.9}
+    \begin{snugshade}{\textcolor{white}{\textsf{\quad 
+            EDUCATION\
+    \qquad}}}\end{snugshade}
+\end{minipage}\par
+\vspace{0.2cm}
+    \quad{\large{\textbf{The University of Sydney}}}
+    \hfill{\em Jul. 2019 - Present}\qquad\qquad\par
+    \qquad\qquad\textit{PhD of Science in Physics}\par
+    \begin{minipage}[t]{4cm}
+        \qquad \textbf{Subject:}\par
+        \qquad \textbf{Thesis:}\par
+        \qquad \par
+        \qquad \textbf{GPA:}\par
+    \end{minipage}
+    \begin{minipage}[t]{11cm}
+        Plasmonics\par
+        Quantum Computation Logic Circuits Realization Based on Plasmon Effects.\par
+        Excepted\par
+    \end{minipage}\par
+\vspace{0.4cm}
+    \quad{\large{\textbf{University of Science and Technology Beijing}}}
+    \hfill{\em Sep. 2015 - Jun. 2017}\qquad\qquad\par
+    \qquad\qquad\textit{MPhil of Science in Physics}\par
+    \begin{minipage}[t]{4cm}
+        \qquad \textbf{Subject:}\par
+        \qquad \textbf{Thesis:}\par
+        \qquad \par
+        \qquad \textbf{GPA:}\par
+    \end{minipage}
+    \begin{minipage}[t]{11cm}
+        Atom and Molecular Physics\par
+        Effect of External Field on the IV Characteristics through the Molecular Nano-junction.\par
+        3.6\par
+    \end{minipage}\par
+\vspace{0.4cm}
+
+\begin{minipage}[t]{16cm}
+    \definecolor{shadecolor}{rgb}{0.5,0.8,0.9}
+    \begin{snugshade}{\textcolor{white}{\textsf{\quad 
+        EXPERTISE AND TECHNICAL STRENGTHS
+    \qquad}}}\end{snugshade}
+\end{minipage}\par
+\vspace{0.2cm}
+    \begin{minipage}[t]{4cm}
+        \qquad \textbf{Programming:}\par
+        \qquad \textbf{Software:}\par
+        \qquad \textbf{Expertise:}\par
+        \qquad \par
+        \qquad \par
+        \qquad \textbf{Language:}\par
+    \end{minipage}
+    \begin{minipage}[t]{11cm}
+        C/C++, Fortran, Python, Julia, \LaTeX \par
+        Linux, Git, TensorFlow, VASP, Octopus\par
+        Mathematical Analysis, Topology, Algorithms, Machine Learning, \\
+        Density Functional Theory, Plasmonics, Molecular Physics \\
+        Quantum Optics, Quantum Computation \par
+        Mandarin Chinese (Native), English \par
+    \end{minipage}\par
+\vspace{0.4cm}
+
 
 
 \end{document}
