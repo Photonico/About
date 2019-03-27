@@ -56,6 +56,8 @@
 
 * Statistical Physics of Fields, Mehran Kardar.
 
+× Statistical Mechanics，R. K. Pathria.
+
 ### General Relativity
 
 * General Theory of Relativity, P.A.M. Dirac.
