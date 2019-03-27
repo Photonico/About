@@ -52,6 +52,10 @@
 
 * Statistical Mechanics, Franz Schwabl.
 
+* Statistical Physics of Particles, Mehran Kardar.
+
+* Statistical Physics of Fields, Mehran Kardar.
+
 ### General Relativity
 
 * General Theory of Relativity, P.A.M. Dirac.
