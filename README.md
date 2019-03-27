@@ -11,7 +11,6 @@ This field is used to collect and express thoughts.
 * Quantum Plasmonics
 * Quantum Computation
 * Algorithms  
-&emsp; &emsp; — 我在黑暗中寻找光明~
 
 ### Other
 
@@ -20,7 +19,6 @@ This field is used to collect and express thoughts.
 * Guitar
 * Mixed Martial Arts
 * DOTA2  
-&emsp; &emsp; — 青春是不会完结的!
 
 ## Contact Me
 
@@ -29,7 +27,6 @@ This field is used to collect and express thoughts.
 * Zhihu: Luke Neo
 * QQ: 164362195
 * QQ Group: 436192270
-
 
 &emsp; Lu Niu  
 LukeNiu@outlook.com
