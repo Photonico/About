@@ -14,11 +14,10 @@ LukeNiu@outlook.com
 It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong!  
 &emsp; &emsp; &emsp; &emsp; - Richard Feynman.
 
-
 物理学代表着一套获得知识, 组织知识和运用知识的有效步骤和方法. 把这套方法运用到什么问题上, 这问题就变成了物理学.  
 &emsp; &emsp; &emsp; &emsp; - 赵凯华.
 
-很多学生在学习中形成一种印象, 以为物理学就是一些验算. 演算是物理学的一部分, 但不是最重要的部分. 物理学最重要的部分是鱼现象有关的. 绝大部分物理学是从现象中来的. 现象是物理学的根源.  
+很多学生在学习中形成一种印象, 以为物理学就是一些验算. 演算是物理学的一部分, 但不是最重要的部分. 物理学最重要的部分是和现象有关的. 绝大部分物理学是从现象中来的. 现象是物理学的根源.  
 &emsp; &emsp; &emsp; &emsp; - 杨振宁.
 
 The world has persisted many a long year, having once been set going in the appropriate motions. From these everything else follows.  
