@@ -55,21 +55,47 @@ More is Different!
 
 #### 数学物理方法(复变函数, 微分方程)
 
-#### 理论力学
+对于数学物理方法, 有一本近乎百科全书一般的圣经, 那就是 S.Hassani 的著作 [Mathematical Physics](https://book.douban.com/subject/25926119/) 这本篇幅 1300 页左右的书籍几乎涵盖了前沿物理所设计的所有数学细节.
+
+当然那本"圣经"太大太全, 如果是常规学习流程, 我们还是要从复变函数开始, 之前偶然在油管发现了一套不错的课程来和大家分享 [Complex Analysis](https://www.youtube.com/playlist?list=PL_onPhFCkVQjdQTbG0eQk42eH0RaBoYJf).
+
+微分方程是数学物理方法中重要的组成部分, 请大家食用经典的 [MIT 18.03 Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm). 除此以外 Leonard 教授近期也在他的油管上上传了他的课程 [Differential Equations](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_). 顺便吐槽一下这货, 有着健美运动员身材的体育老师, 你上过他的课就真的可以说"我的数学是体育老师教的了".
+
+至于群论, 我没有单独学过, 或许徐一鸿先生的公开课: [Group Theory](https://www.youtube.com/playlist?list=PLrLctLPAdPNsB9TGH3i1zUNjzlssmcfCI) 会对大家有帮助. 我也打算有时间后去食用这套课程.
+
+除此之外, 我强烈建议对数学要求严格的同学学习齐震宇所授的 NTU 的线上公开课[分析1](https://www.bilibili.com/video/av41273169), [分析2](https://www.bilibili.com/video/av41382014). 这套课程涵盖了复变函数, 实变函数, 点集拓扑学的基本内容.
+
+#### 理论力学(分析力学)
+
+我做过这门课的助教, 用的是老师指定的教材, 也就是金尚年的[理论力学](https://book.douban.com/subject/1667331/). 但是感觉并不好, 缺少条理性. 而至于 H.Goldstein 的大部头 [Classical Mehcanics](https://book.douban.com/subject/1427059/)我则表示心有余而力不足. 不过我推荐一本帝国理工的教材 T.Kibble 所写的 [Classical Mechanics](https://book.douban.com/subject/2878750/), 有影印版, 内容清洗透彻篇幅较小, 适合自学.
 
 #### 电·动力学
 
-除此之外目前还没发现什么很好的公开课, 教材强推 D.Griffiths 的[电动力学导论](https://book.douban.com/subject/1965758/), 是比较友善的一本书.
+大家可以去看 NTU 易富国大仙的电动力学公开课: [进阶电磁学](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S112). 除此之外目前还没发现什么很好的公开课, 教材强推 D.Griffiths 的[电动力学导论](https://book.douban.com/subject/1965758/), 是比较友善的一本书.
+
+最后强调一下, 这这门课不叫做电动·力学, 正确的读法是: 电·动力学.
 
 #### 量子力学
 
-量子力学几乎是所有物理系的考研必考科目, 也是现代物理的基石. 量子力学的学习资料太多太多了, 推
+量子力学几乎是所有物理系的考研必考科目, 也是现代物理的基石. 量子力学的学习资料实在太多太多了. 然蛾, MIT Open Course 永远是你最佳的选择, 量子力学素质三连: [1](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G), [2](https://www.youtube.com/watch?v=QI13S04w8dM&list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx), [3](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L).
 
-量子力学书籍繁多
+易富国先生在 NTU 所讲的量子力学也很值得回味, 对于有英语恐惧症的同学可以食用这套公开课: [NTU Quantum Mechanics](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/100S221).
+
+至于书籍, 结合各种方面的情况, 我只推荐一本那就是 Yale 的 R.Shankar 写的[The Principle of Quantum Mechanics](https://book.douban.com/subject/2187612/). 我的一个本身是工科同学, 通过刷这本书去考北京大学的物理系研究生, 最后取得了全国第二的好成绩. 这本书先从线性代数和分析力学讲起, 然后引入量子力学五大公理逐步展开. 这本书无论是对付考试, 还是对于透彻理解量子力学, 都是上乘佳品!
+
+当然量子力学好的教材太多太多了, 经典风樱井纯的 [Modern Quantum Mechanics](https://book.douban.com/subject/1943987/) 和现代风奥特劳的 [Quantum Mechanics](https://book.douban.com/subject/4354794/) 等书籍都是非常不错的. 大家可以根据自己的喜好选择.
 
 #### 统计力学
 
+统计力学包含热力学, 统计物理, 量子统计, 是...(以下省略一万字)...这门课程是我在具体研究中用到最多的, 其重要性不言而喻! 话不多说, MIT 热力学&统计力学素质三连了解一下? [1 MIT 热力学](https://www.youtube.com/playlist?list=PLA62087102CC93765), [2 MIT 粒子的统计物理](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg), [3 MIT 场的统计物理](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7). 至于书籍, 我读研期间囫囵吞枣的学过 F.Schwabl 的 [Statistical Mechanics](https://book.douban.com/subject/3015240/).
+
+#### 量子电动力学
+
+窝没有学过这门课. 或许以后会食用国际理论物理中心的 [Quantum Electrodynamics](https://www.bilibili.com/video/av46121646?).
+
 #### 固体物理
+
+我校是固体物理优势学校, 可是我并没有把固体物理学到家(请大家拍砖), 仅仅看过黄坤先生的[固体物理学(重拍本)](https://book.douban.com/subject/4087561/).
 
 #### 计算物理
 
@@ -81,11 +107,15 @@ More is Different!
 
 第三阶段的学习一般来说是研究生(硕士, 博士)或者全国前 1% 物理系本科生的范畴了, 在此阶段接触以下科目的同学不写一两篇论文做一些 project 也说不过去了. 在这个阶段我主要推荐一些书籍, 因为公开课数量相比之前阶段已经大幅度缩水.
 
-#### 物理学家用的群论
-
 #### 量子光学
 
+这方面最著名的书是 M.Scully 的 [Quantum Optics](https://book.douban.com/subject/1877567/), 但是我并没有买到. 手头有一本 D.F.Walls 的 [Quantum Optics](https://book.douban.com/subject/2855714/), 讲了很多和量子信息相关的前言. 私以为如果对 AMO 方向的同学, 这本书值得收入囊中.
+
 #### 量子信息与量子计算
+
+在这个领域首先是久负盛名的教材[量子计算与量子信息](https://book.douban.com/subject/30241883/), 这本 Michael A. Nielsen 与 Isaac L. Chuang 合著的教材可以说是该领域的必读精品了. 喜欢公开课的同学可以实用伯克利的 [Quantum Computation](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7).
+
+另外 MIT 的课程[信息与熵](https://www.bilibili.com/video/av36633345)可以作为很好地帮助大家入门信息科学.
 
 #### 凝聚态物理
 
@@ -97,7 +127,19 @@ More is Different!
 
 #### 量子场论
 
-AWSL! 我先后买过 M.Peskin 写的 [An Introduction to Quantum Field Theory](https://book.douban.com/subject/1416424/) 和 A.Zee 的 [简明量子场论](https://book.douban.com/subject/25754070/), 但是我都没有读下来. 最近在阅读 David Tong 的[量子场论讲义](http://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf) . 所以说我的量子场论很差劲, 不敢盲目推荐, 评论的大神帮忙补充吧. 不过据说对于量子场论有要求的同学, 温伯格的三卷是最好的搭档哦(据说的, 别打我).
+AWSL! 我先后买过 M.Peskin 写的 [An Introduction to Quantum Field Theory](https://book.douban.com/subject/1416424/) 和徐一鸿先生的 [简明量子场论](https://book.douban.com/subject/25754070/), 但是我都没有读下来. 
+
+最近在阅读 David Tong 的[量子场论讲义](http://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf). 以及 NTU 的[量子场论公开课](https://www.bilibili.com/video/av26098460). 这是我本人目前的学习情况.
+
+所以说我的量子场论很差劲, 不敢盲目推荐, 评论的大神帮忙补充吧. 不过据说对于量子场论有要求的同学, 温伯格的三卷是最好的搭档哦(据说的, 别打我).
+
+#### 粒子物理
+
+窝不是搞粒子物理的, 我卖个萌. 感兴趣的朋友或许试试 Susskind 粒子物理素质三连? [1](https://www.bilibili.com/video/av39806334), [2](https://www.bilibili.com/video/av39810091), [3](https://www.bilibili.com/video/av39811769).
+
+#### 宇宙学
+
+憋问, 吻我!
 
 ## 补充
 
