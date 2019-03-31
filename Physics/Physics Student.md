@@ -9,10 +9,13 @@
 另外送两句名言:
 
 物理学代表着一套获得知识, 组织知识和运用知识的有效步骤和方法. 把这套方法运用到什么问题上, 这问题就变成了物理学.  
-&emsp; &emsp; &emsp; &emsp; - 赵凯华.
+&emsp; &emsp; &emsp; &emsp; - 赵凯华
 
 很多学生在学习中形成一种印象, 以为物理学就是一些验算. 演算是物理学的一部分, 但不是最重要的部分. 物理学最重要的部分是和现象有关的. 绝大部分物理学是从现象中来的. 现象是物理学的根源.  
-&emsp; &emsp; &emsp; &emsp; - 杨振宁.
+&emsp; &emsp; &emsp; &emsp; - 杨振宁
+
+More is Different!
+&emsp; &emsp; &emsp; &emsp; - P. Anderson
 
 ## 第一阶段
 
@@ -40,11 +43,17 @@
 
 首先是 R.Shankar 在 Yale 所讲授的 [Fundamentals of Physics 1](http://open.163.com/special/fundamentalsofphysics/), 以及 [Fundamentals of Physics 2](http://open.163.com/special/opencourse/physicsii.html). 说实话这套课程对于普通物理的标准要求来说要浅显很多, 很多细节的东西都没有涉及, 但是私以为着却是最推荐的(快速衔接理论物理不爽嘛？). R.Shankar 老师讲课非常注重推演, 从头到尾一气呵成, 来龙去脉一览无遗. 所以这套课虽然细节很少, 但是理论深度还是不错的.
 
-除此之外, 易富国先生在 NTU 所讲的
+除此之外, 易富国先生在 NTU 所讲的[普通物理上](https://www.youtube.com/playlist?list=PLvWQohjH8rwgugwlNnr_k18DsjQoTdqnH), 以及[普通物理下](https://www.youtube.com/playlist?list=PLvWQohjH8rwgfvAMU8xZnRiaoByFkapym)也非常不错, 深度和广度都达到了很合适的程度.
+
+另外由于我之前的专业原因, 对于需要经典光学深入研究的同学
+
+#### 原子物理
+
+本身原子物理应该是普通物理的一部分, 但是我还是想单说一下, 原子物理
 
 ### 第二阶段
 
-#### 数学物理方法
+#### 数学物理方法(复变函数, 微分方程)
 
 #### 理论力学
 
@@ -54,10 +63,32 @@
 
 #### 固体物理
 
-#### 广义相对论
+#### 计算物理
+
+物理是人们用数学语言对自然界运行规律的描述, 有些时候实验并不能很完美的展开(比如要你去做黑洞碰撞实验), 这个时候就需要计算机模拟了. 常见的用于物理学科学计算语言有 Fortran, C/C++, Java, Python, MATLAB, Mathematica, Julia. 其中我之前是用 Fortran 做开发的, 因此也备受煎熬, 极其不推荐 Fortran. 我正在逐步转向 Julia: A language that walks like Python, runs like C. 如果大家要是对 Julia 刚兴趣的话可以看看这份 [Julia 入门教程](https://github.com/bkamins/The-Julia-Express). 置于在物理中的各种模型的计算, 读一本计算物理还是比较必要的, Tao Pang 的[计算物理学导论](https://book.douban.com/subject/6527932/)是一本口碑非常好的教程(基于 Java), 在此推荐给大家.
+
+其实计算物理最好的学习方式就是重复别人的工作, 当然这需要莫大的耐心与磨练. 在此我并不继续论述.
 
 ### 第三阶段
 
+第三阶段的学习一般来说是研究生(硕士, 博士)或者全国前 1% 物理系本科生的范畴了, 在此阶段接触以下科目的同学不写一两篇论文做一些 project 也说不过去了.
+
+#### 物理学家用的群论
+
+#### 量子光学
+
+#### 量子信息与量子计算
+
 #### 凝聚态物理
 
+对于目前的物理学研究来说, 基本上绝大多数的研究都是凝聚态物理的范畴, 
+
+#### 广义相对论
+
 #### 量子场论
+
+AWSL! 我先后买过 M.Peskin 写的 [An Introduction to Quantum Field Theory](https://book.douban.com/subject/1416424/)和 A.Zee 的 [简明量子场论](https://book.douban.com/subject/25754070/), 但是我都没有读下来. 最近在阅读 David Tong 的[量子场论讲义](http://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf) . 所以说我的量子场论很差劲, 不敢盲目推荐, 评论的大神帮忙补充吧.
+
+## 补充
+
+最后, 我想说, 知识分子只是劳动人民的一部分也不比其他劳动人们更崇高, 我们不仅需要敬畏自然, 也需要敬畏我们人类文明社会本身. 你所拥有的自学环境是无数劳动人民通过社会劳动用汗水换成的. 拥有很多知识没什么了不起的, 而产出很多知识对于我们来说才是莫大的荣耀!
