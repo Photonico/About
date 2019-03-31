@@ -1,4 +1,4 @@
-# 一份线上物理系本科学生培养计划
+# 一份线上物理系本科层次的自学指南
 
 由于很多人对物理感兴趣, 然而阴差阳错的没有进入物理专业学习; 本人也正是从电子系信息相关专业(EE)转入物理系的学生, 所以这篇文章告诉大家如果想进入物理专业(比如跨系考研), 应该自学什么.
 
@@ -45,11 +45,11 @@ More is Different!
 
 除此之外, 易富国先生在 NTU 所讲的[普通物理上](https://www.youtube.com/playlist?list=PLvWQohjH8rwgugwlNnr_k18DsjQoTdqnH), 以及[普通物理下](https://www.youtube.com/playlist?list=PLvWQohjH8rwgfvAMU8xZnRiaoByFkapym)也非常不错, 深度和广度都达到了很合适的程度.
 
-另外由于我之前的专业原因, 对于需要经典光学深入研究的同学
+另外由于我之前的专业原因, 对于需要经典光学深入研究的同学可以阅读 M.Born 所著大名鼎鼎的 [Principles of Optics](https://book.douban.com/subject/1772187/).
 
 #### 原子物理
 
-本身原子物理应该是普通物理的一部分, 但是我还是想单说一下, 原子物理
+原子物理本身应该是普通物理的一部分, 但是我还是想单说一下, 原子物理是量子物理的实验基础, 在物理学中占据着至关重要的位置, 推荐大家学习 MIT Open Course: [Atomic and Optical Physics 1](https://www.youtube.com/watch?v=jANZxzetPaQ&list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G), [Atomic and Optical Physics 2](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uOSArqLf4vNLiZtgIRm1K).
 
 ### 第二阶段
 
