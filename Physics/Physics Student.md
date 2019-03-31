@@ -81,13 +81,15 @@ More is Different!
 
 #### 凝聚态物理
 
-对于目前的物理学研究来说, 基本上绝大多数的研究都是凝聚态物理的范畴, 
+对于目前的物理学研究来说, 基本上绝大多数的研究都是凝聚态物理的范畴. 我读研时候上课用的是冯端写的凝聚态物理[上](https://book.douban.com/subject/25883909/)[下](https://book.douban.com/subject/25883910/), 我们的教授对于此套教材赞不绝口. 除此之外, A.Altland 所写的[凝聚态场论](https://book.douban.com/subject/26658945/)是极其硬核的教程, 对凝聚态有高度要求的同学请食用.
 
 #### 广义相对论
 
+因为我的方向和广义相对论没什么关系, 所以我对广义相对的了解不多于赵峥先生在北师大所讲授的 [广义相对论](https://www.bilibili.com/video/av11657603), 可以参考他的 [广义相对论基础](https://book.douban.com/subject/5450812/)这本教材食用. 除此之外 L.Susskind 在 Stanford 的[广义相对论公开课](https://www.bilibili.com/video/av9279591)也是入门必备良药, 置于广义相对论的进阶学习, 由于我学识有限故无能为力, 或许梁灿彬先生的微分几何与广义相对论更合适?
+
 #### 量子场论
 
-AWSL! 我先后买过 M.Peskin 写的 [An Introduction to Quantum Field Theory](https://book.douban.com/subject/1416424/)和 A.Zee 的 [简明量子场论](https://book.douban.com/subject/25754070/), 但是我都没有读下来. 最近在阅读 David Tong 的[量子场论讲义](http://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf) . 所以说我的量子场论很差劲, 不敢盲目推荐, 评论的大神帮忙补充吧.
+AWSL! 我先后买过 M.Peskin 写的 [An Introduction to Quantum Field Theory](https://book.douban.com/subject/1416424/) 和 A.Zee 的 [简明量子场论](https://book.douban.com/subject/25754070/), 但是我都没有读下来. 最近在阅读 David Tong 的[量子场论讲义](http://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf) . 所以说我的量子场论很差劲, 不敢盲目推荐, 评论的大神帮忙补充吧. 不过据说对于量子场论有要求的同学, 温伯格的三卷是最好的搭档哦(据说的, 别打我).
 
 ## 补充
 
