@@ -95,7 +95,7 @@ More is Different!
 
 #### 固体物理
 
-我校是固体物理优势学校, 可是我并没有把固体物理学到家(请大家拍砖), 仅仅看过黄坤先生的[固体物理学(重拍本)](https://book.douban.com/subject/4087561/).
+我校是固体物理优势学校, 可是我并没有把固体物理学到家(请大家拍砖), 仅仅看过黄昆先生的[固体物理学(重拍本)](https://book.douban.com/subject/4087561/).
 
 #### 计算物理
 
@@ -144,3 +144,11 @@ AWSL! 我先后买过 M.Peskin 写的 [An Introduction to Quantum Field Theory](
 ## 补充
 
 最后, 我想说, 知识分子只是劳动人民的一部分也不比其他劳动人们更崇高, 我们不仅需要敬畏自然, 也需要敬畏我们人类文明社会本身. 你所拥有的自学环境是无数劳动人民通过社会劳动用汗水换成的. 拥有很多知识没什么了不起的, 而产出很多知识对于我们来说才是莫大的荣耀!
+
+* 题图来源于网络
+* [这是该文章的 Github 地址](https://github.com/ConAntares/About/blob/master/Physics/Physics%20Student.md)
+
+最后当然是广告啦:
+
+    科学理想乡 (QQ群)
+    436192270
