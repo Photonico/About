@@ -148,6 +148,12 @@ AWSL! 我先后买过 M.Peskin 写的 [An Introduction to Quantum Field Theory](
 * 题图来源于网络
 * [这是该文章的 Github 地址](https://github.com/ConAntares/About/blob/master/Physics/Physics%20Student.md)
 
+## 一些参考资料
+
+[1] [清华大学物理系 2014 级本科教学手册](http://www.phys.tsinghua.edu.cn/publish/phy/5302/5302/2014jiaoxueshouce.pdf).
+
+[2] [So you want to learn physics](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics).
+
 最后当然是广告啦:
 
     科学理想乡 (QQ群)
