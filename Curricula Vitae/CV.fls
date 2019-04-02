@@ -100,13 +100,10 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-Roman-tlf-ot1.tfm
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
 OUTPUT d:/About/Curricula Vitae/CV.pdf
 INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
-INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-ot1.tfm
 INPUT d:/About/Curricula Vitae/CV.aux
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_n3gbj7.enc
