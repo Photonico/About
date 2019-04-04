@@ -1,9 +1,9 @@
 # About
 
-[![License: MIT](LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
-[![License: Anti996](LicenseNPL.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![MIT License](Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
+[![Anti996](Attachments/LinkNPL.svg)](https://996.icu)
 
-![Opensource](OpenSource.svg)
+![Opensource](Attachments/OpenSource.svg)
 
 这只是我收集或者抒发自己感想的地方.  
 This field is used to collect and express thoughts.
