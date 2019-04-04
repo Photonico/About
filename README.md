@@ -1,7 +1,7 @@
 # About
 
 [![MIT License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
-[![Anti996](https://github.com/ConAntares/About/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
+[![Anti 996](https://github.com/ConAntares/About/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
 
 ![Opensource](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
 
