@@ -2,10 +2,10 @@
 
 ## Open Source
 
-![Opensource](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
+![Open Source](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
 
 ```markdown
-![Opensource](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
+![Open Source](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
 ```
 
 ## License Badges
@@ -24,6 +24,14 @@
 
 ```markdown
 [![LGPL v3 License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseLGPLv3.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+```
+
+### Anti 996 License
+
+[![NPL License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseNPL.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+```markdown
+[![NPL License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseNPL.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ```
 
 ## Language Badges
@@ -56,10 +64,10 @@
 
 ### Anti 996 Link
 
-[![Anti996](https://github.com/ConAntares/About/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
+[![Anti 996](https://github.com/ConAntares/About/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
 
 ```markdown
-[![Anti996](https://github.com/ConAntares/About/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
+[![Anti 996](https://github.com/ConAntares/About/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
 ```
 
 ### Made for VSCode
