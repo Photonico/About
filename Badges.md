@@ -60,12 +60,12 @@
 [![Made by Jupyter](https://github.com/ConAntares/About/blob/master/Attachments/MadebyJupyter.svg)](https://jupyter.org/)
 ```
 
-<!-- ### LaTeX
+### LaTeX
 
-[![Made by LaTeX](https://github.com/ConAntares/About/blob/master/Attachments/MadebyJupyter.svg)](https://www.latex-project.org/)
+[![Made by LaTeX](https://github.com/ConAntares/About/blob/master/Attachments/MadebyLaTeX.svg)](https://www.latex-project.org/)
 
 ```markdown
-[![Made by LaTeX](https://github.com/ConAntares/About/blob/master/Attachments/MadebyJupyter.svg)](https://www.latex-project.org/) -->
+[![Made by LaTeX](https://github.com/ConAntares/About/blob/master/Attachments/MadebyLaTeX.svg)](https://www.latex-project.org/)
 ```
 
 ## Other Badges
