@@ -68,6 +68,14 @@
 [![Made by LaTeX](https://github.com/ConAntares/About/blob/master/Attachments/MadebyLaTeX.svg)](https://www.latex-project.org/)
 ```
 
+### MATLAB
+
+[![Made by MATLAB](https://github.com/ConAntares/About/blob/master/Attachments/MadebyMATLAB.svg)](https://www.mathworks.com/)
+
+```markdown
+[![Made by MATLAB](https://github.com/ConAntares/About/blob/master/Attachments/MadebyMATLAB.svg)](https://www.mathworks.com/)
+```
+
 ## Other Badges
 
 ### Anti 996 Link
