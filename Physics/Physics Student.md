@@ -127,7 +127,7 @@ More is Different!
 
 #### 量子场论
 
-AWSL! 我先后买过 M.Peskin 写的 [An Introduction to Quantum Field Theory](https://book.douban.com/subject/1416424/) 和徐一鸿先生的 [简明量子场论](https://book.douban.com/subject/25754070/), 但是我都没有读下来. 
+AWSL! 我先后买过 M.Peskin 写的 [An Introduction to Quantum Field Theory](https://book.douban.com/subject/1416424/) 和徐一鸿先生的 [简明量子场论](https://book.douban.com/subject/25754070/), 但是我都没有读下来.
 
 最近在阅读 David Tong 的[量子场论讲义](http://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf). 以及 NTU 的[量子场论公开课](https://www.bilibili.com/video/av26098460). 这是我本人目前的学习情况.
 
