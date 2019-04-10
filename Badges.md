@@ -36,12 +36,34 @@
 
 ## Language Badges
 
-### Fortran
+### Assembly
 
-[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](http://www.fortran.com/)
+[![Made by Assembly](https://github.com/ConAntares/About/blob/master/Attachments/MadebyAssembly.svg)](https://en.wikipedia.org/wiki/Assembly_language)
 
 ```markdown
-[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](http://www.fortran.com/)
+[![Made by Assembly](https://github.com/ConAntares/About/blob/master/Attachments/MadebyAssembly.svg)](https://en.wikipedia.org/wiki/Assembly_language)
+```
+
+### C
+
+[![Made by C](https://github.com/ConAntares/About/blob/master/Attachments/MadebyC.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+```markdown
+[![Made by C](https://github.com/ConAntares/About/blob/master/Attachments/MadebyC.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+### C++
+
+[![Made by C](https://github.com/ConAntares/About/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+```markdown
+[![Made by C](https://github.com/ConAntares/About/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+### Fortran
+
+[![Made by Fortran](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](http://www.fortran.com/)
+
+```markdown
+[![Made by Fortran](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](http://www.fortran.com/)
 ```
 
 ### Julia
