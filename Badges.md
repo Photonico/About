@@ -38,10 +38,10 @@
 
 ### Fortran
 
-[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](https://julialang.org/)
+[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](http://www.fortran.com/)
 
 ```markdown
-[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](https://julialang.org/)
+[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](http://www.fortran.com/)
 ```
 
 ### Julia
