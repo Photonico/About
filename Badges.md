@@ -36,6 +36,14 @@
 
 ## Language Badges
 
+### Fortran
+
+[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](https://julialang.org/)
+
+```markdown
+[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](https://julialang.org/)
+```
+
 ### Julia
 
 [![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyJulia.svg)](https://julialang.org/)
