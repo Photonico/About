@@ -76,6 +76,14 @@
 [![Made by MATLAB](https://github.com/ConAntares/About/blob/master/Attachments/MadebyMATLAB.svg)](https://www.mathworks.com/)
 ```
 
+### Mathematica
+
+[![Made by Mathematica](https://github.com/ConAntares/About/blob/master/Attachments/MadebyMathematica.svg)](http://www.wolfram.com/)
+
+```markdown
+[![Made by Mathematica](https://github.com/ConAntares/About/blob/master/Attachments/MadebyMathematica.svg)](http://www.wolfram.com/)
+```
+
 ## Other Badges
 
 ### Anti 996 Link
