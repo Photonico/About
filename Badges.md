@@ -10,6 +10,10 @@
 
 ## License Badges
 
+### Apache 2.0
+
+### BSD
+
 ### MIT License
 
 [![MIT License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
@@ -17,6 +21,8 @@
 ```markdown
 [![MIT License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
 ```
+
+### GPL v3.0
 
 ### LGPL v3.0
 
@@ -33,6 +39,10 @@
 ```markdown
 [![NPL License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseNPL.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ```
+
+### Mozilla
+
+### ISC
 
 ## Language Badges
 
