@@ -12,6 +12,12 @@
 
 ### Apache 2.0
 
+[![Apache 2.0 License](https://github.com/ConAntares/About/blob/master/Attachments/Apache2.0.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
+```markdown
+[![Apache 2.0 License](https://github.com/ConAntares/About/blob/master/Attachments/Apache2.0.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+```
+
 ### BSD
 
 ### MIT License
@@ -26,10 +32,10 @@
 
 ### LGPL v3.0
 
-[![LGPL v3 License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseLGPLv3.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![LGPL 3.0 License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ```markdown
-[![LGPL v3 License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseLGPLv3.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![LGPL 3.0 License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 ```
 
 ### Anti 996 License
