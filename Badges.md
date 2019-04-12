@@ -66,6 +66,7 @@
 
 ```markdown
 [![Made by C](https://github.com/ConAntares/About/blob/master/Attachments/MadebyC.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+```
 
 ### C++
 
@@ -73,6 +74,7 @@
 
 ```markdown
 [![Made by C](https://github.com/ConAntares/About/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+```
 
 ### Fortran
 
