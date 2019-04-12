@@ -23,6 +23,9 @@ It doesn't matter how beautiful your theory is, it doesn't matter how smart you 
 The world has persisted many a long year, having once been set going in the appropriate motions. From these everything else follows.  
 &emsp; &emsp; &emsp; &emsp; - C. Lucretius, 50 BC.
 
+常常在不经意间, 数学抽象, 实验数据, 和物理直觉会在某个关于粒子, 力, 和对称性的理论中走到一起. 而常常在后来的某个时候, 理论将被证明是正确的; 有时实验会表明自然确实在像理论说的那样运行着.  
+&emsp; &emsp; &emsp; &emsp; - Steven Weinberg.
+
 ## Relativity
 
 To Einstein, it was very obvious that nature would not design a system, in which mechanical laws are the same, but laws of electricity are different.  
