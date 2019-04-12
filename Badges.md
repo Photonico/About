@@ -20,6 +20,12 @@
 
 ### BSD
 
+[![MIT License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseBSD.svg)](https://www.freebsd.org/copyright/freebsd-license.html)
+
+```markdown
+[![MIT License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseBSD.svg)](https://www.freebsd.org/copyright/freebsd-license.html)
+```
+
 ### MIT License
 
 [![MIT License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
