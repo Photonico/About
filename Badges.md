@@ -12,10 +12,10 @@
 
 ### Apache 2.0
 
-[![Apache 2.0 License](https://github.com/ConAntares/About/blob/master/Attachments/Apache2.0.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Apache 2.0 License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseApache2.0.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ```markdown
-[![Apache 2.0 License](https://github.com/ConAntares/About/blob/master/Attachments/Apache2.0.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Apache 2.0 License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseApache2.0.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ```
 
 ### BSD
