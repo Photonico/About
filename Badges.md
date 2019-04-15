@@ -43,6 +43,15 @@
 ```markdown
 [![LGPL 3.0 License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 ```
+### Mozilla
+
+[![Mozilla License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseMozilla.svg)](https://www.mozilla.org/en-US/MPL/)
+
+```markdown
+[![Mozilla License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseMozilla.svg)](https://www.mozilla.org/en-US/MPL/)
+```
+
+### ISC
 
 ### Anti 996 License
 
@@ -51,10 +60,6 @@
 ```markdown
 [![NPL License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseNPL.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ```
-
-### Mozilla
-
-### ISC
 
 ## Language Badges
 
