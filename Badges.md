@@ -102,6 +102,14 @@
 [![Made by Fortran](https://github.com/ConAntares/About/blob/master/Attachments/MadebyFortran.svg)](http://www.fortran.com/)
 ```
 
+### Python
+
+[![Made by Python](https://github.com/ConAntares/About/blob/master/Attachments/MadebyPython.svg)](https://www.python.org/)
+
+```markdown
+[![Made by Python](https://github.com/ConAntares/About/blob/master/Attachments/MadebyPython.svg)](https://www.python.org/)
+```
+
 ### Julia
 
 [![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyJulia.svg)](https://julialang.org/)
@@ -110,12 +118,12 @@
 [![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyJulia.svg)](https://julialang.org/)
 ```
 
-### Python
+### R
 
-[![Made by Python](https://github.com/ConAntares/About/blob/master/Attachments/MadebyPython.svg)](https://www.python.org/)
+[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyR.svg)](https://www.r-project.org/)
 
 ```markdown
-[![Made by Python](https://github.com/ConAntares/About/blob/master/Attachments/MadebyPython.svg)](https://www.python.org/)
+[![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyR.svg)](https://www.r-project.org/)
 ```
 
 ### Jupyter
