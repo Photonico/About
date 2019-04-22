@@ -88,10 +88,10 @@
 
 ### C++
 
-[![Made by C](https://github.com/ConAntares/About/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Made by C++](https://github.com/ConAntares/About/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 ```markdown
-[![Made by C](https://github.com/ConAntares/About/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Made by C++](https://github.com/ConAntares/About/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
 ```
 
 ### Fortran
