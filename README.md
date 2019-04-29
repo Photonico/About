@@ -28,8 +28,8 @@ This field is used to collect and express thoughts.
 ## Contact Me
 
 * GitHub: ConAntares
-* Wechat: ConAntares
 * Zhihu: Luke Neo
+* Wechat: ConAntares
 * QQ: 164362195
 * QQ Group: 436192270
 
