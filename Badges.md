@@ -158,6 +158,14 @@
 [![Made by Mathematica](https://github.com/ConAntares/About/blob/master/Attachments/MadebyMathematica.svg)](http://www.wolfram.com/)
 ```
 
+### Gnuplot
+
+[![Made by Gnuplot](https://github.com/ConAntares/About/blob/master/Attachments/MadebyGnuplot.svg)](http://gnuplot.sourceforge.net/)
+
+```markdown
+[![Made by Gnuplot](https://github.com/ConAntares/About/blob/master/Attachments/MadebyGnuplot.svg)](http://gnuplot.sourceforge.net/)
+```
+
 ## Other Badges
 
 ### Anti 996 Link
