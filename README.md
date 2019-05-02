@@ -29,11 +29,12 @@ This repository is used to collect and express thoughts, it can also be regarded
 
 ## Contact Me
 
-* GitHub: ConAntares
-* Zhihu: Luke Neo
-* Wechat: ConAntares
+* E-Mail: [Personal](LukeNiu@outlook.com)
+* GitHub: [ConAntares](https://github.com/ConAntares)
+* ZhiHu: [Luke Neo](https://www.zhihu.com/people/ConAntares)
+* WeChat: ConAntares
 * QQ: 164362195
 * QQ Group: 436192270
 
+&emsp; Sincerely,  
 &emsp; Lu Niu  
-LukeNiu@outlook.com
