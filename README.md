@@ -3,10 +3,12 @@
 [![MIT License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
 [![Anti 996](https://github.com/ConAntares/About/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
 
-![Opensource](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
+![Open Source](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
 
-这只是我收集或者抒发自己感想的地方.  
-This field is used to collect and express thoughts.
+## This Repository
+
+这个仓库只是我收集或者抒发自己感想的地方, 也可以把它看作我的个人主页或者博客.  
+This repository is used to collect and express thoughts, it can also be regarded as my personal home page or blog.
 
 ## My Interests
 
