@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.10)  7 MAY 2019 05:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.10)  15 MAY 2019 01:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -465,27 +465,27 @@ Overfull \hbox (8.54279pt too wide) in paragraph at lines 168--169
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 180.
+(Font)              <12> on input line 179.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 180.
+(Font)              <8> on input line 179.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 180.
+(Font)              <6> on input line 179.
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 180.
+(Font)              scaled to size 8.0pt on input line 179.
 
-Overfull \hbox (47.77315pt too wide) in paragraph at lines 171--186
+Overfull \hbox (47.77315pt too wide) in paragraph at lines 171--183
 [][] [] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 193--194
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 190--191
 [][][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/sl' in size <12> not available
-(Font)              Font shape `OT1/Crimson-TLF/m/it' tried instead on input line 205.
+(Font)              Font shape `OT1/Crimson-TLF/m/it' tried instead on input line 202.
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 205.
+(Font)              scaled to size 12.0pt on input line 202.
 
 Overfull \hbox (8.54279pt too wide) has occurred while \output is active
  [][][][][][][]| 
@@ -500,29 +500,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 210--211
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 207--208
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 214--214
+Underfull \hbox (badness 1019) in paragraph at lines 211--211
 []\OT1/Crimson-TLF/b/n/12 Effect of Ex-ter-nal Field on the IV Char-ac-ter-is-tics through the Molec-u-lar Nano-
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 232--233
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 229--230
 [][][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 236.
+(Font)              scaled to size 12.0pt on input line 233.
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 248--249
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 245--246
 [][][][][][][] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 262--263
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 259--260
 [][][][][][][] 
  []
 
@@ -541,7 +541,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  35i,13n,43p,1032b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_n3gbj7.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_wttfgh.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/crimson/crm_qrsm2e.enc}{c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-BoldItalic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "d:/About/Curricula Vitae/CV.pdf" (2 pages, 228803 bytes).
+Output written on "d:/About/Curricula Vitae/CV.pdf" (2 pages, 228748 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
