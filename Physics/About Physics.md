@@ -29,6 +29,9 @@ The world has persisted many a long year, having once been set going in the appr
 没有人知道钟表背后的所有知识.
 &emsp; &emsp; &emsp; &emsp; - Roger Penrose.
 
+What I cannot create, I do not understand.
+&emsp; &emsp; &emsp; &emsp; - Richard Feynman.
+
 ## Relativity
 
 To Einstein, it was very obvious that nature would not design a system, in which mechanical laws are the same, but laws of electricity are different.  
