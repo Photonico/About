@@ -26,10 +26,10 @@ The world has persisted many a long year, having once been set going in the appr
 常常在不经意间, 数学抽象, 实验数据, 和物理直觉会在某个关于粒子, 力, 和对称性的理论中走到一起. 而常常在后来的某个时候, 理论将被证明是正确的; 有时实验会表明自然确实在像理论说的那样运行着.  
 &emsp; &emsp; &emsp; &emsp; - Steven Weinberg.
 
-没有人知道钟表背后的所有知识.
+没有人知道钟表背后的所有知识.  
 &emsp; &emsp; &emsp; &emsp; - Roger Penrose.
 
-What I cannot create, I do not understand.
+What I cannot create, I do not understand.  
 &emsp; &emsp; &emsp; &emsp; - Richard Feynman.
 
 ## Relativity
