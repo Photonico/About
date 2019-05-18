@@ -30,7 +30,10 @@ The world has persisted many a long year, having once been set going in the appr
 &emsp; &emsp; &emsp; &emsp; - Roger Penrose.
 
 What I cannot create, I do not understand.  
-&emsp; &emsp; &emsp; &emsp; - Richard Feynman.
+&emsp; &emsp; &emsp; &emsp; - Richard Feynman
+
+If you couldn't explain something simply, you didn't understand it.  
+&emsp; &emsp; &emsp; &emsp; - Richard Feynman
 
 ## Relativity
 
