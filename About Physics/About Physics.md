@@ -35,7 +35,7 @@ What I cannot create, I do not understand.
 If you couldn't explain something simply, you didn't understand it.  
 &emsp; &emsp; &emsp; &emsp; - Richard Feynman
 
-量子现象不是发生在希尔伯特空间中, 而是发生在实验室里.
+量子现象不是发生在希尔伯特空间中, 而是发生在实验室里.  
 &emsp; &emsp; &emsp; &emsp; — Asher Peres
 
 ## Relativity
