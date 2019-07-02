@@ -56,7 +56,7 @@
 
 * Statistical Physics of Fields, Mehran Kardar.
 
-× Statistical Mechanics，R. K. Pathria.
+* Statistical Mechanics，R. K. Pathria.
 
 ### General Relativity
 
@@ -70,13 +70,13 @@
 
 ### Condensed Matter Physics (include Solid Physics and Materials Science)
 
-固体物理学, 黄昆.
+* 固体物理学, 黄昆.
 
-凝聚态物理学 (上), 冯端.
+* 凝聚态物理学 (上), 冯端.
 
-凝聚态物理学 (下), 冯端.
+* 凝聚态物理学 (下), 冯端.
 
-材料科学基础, 余永宁.
+* 材料科学基础, 余永宁.
 
 ### Plasmonics
 
