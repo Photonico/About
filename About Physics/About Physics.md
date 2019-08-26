@@ -38,6 +38,9 @@ If you couldn't explain something simply, you didn't understand it.
 量子现象不是发生在希尔伯特空间中, 而是发生在实验室里.  
 &emsp; &emsp; &emsp; &emsp; - Asher Peres
 
+现代科学有两个来源, 一是古希腊公理逻辑传统, 二是近代实验传统.  
+&emsp; &emsp; &emsp; &emsp; - Albert Einstein
+
 ## Relativity
 
 To Einstein, it was very obvious that nature would not design a system, in which mechanical laws are the same, but laws of electricity are different.  
