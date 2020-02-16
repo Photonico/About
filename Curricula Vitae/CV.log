@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.2.16)  17 FEB 2020 00:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.2.16)  17 FEB 2020 01:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -439,55 +439,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--75
  []
 
 
-Overfull \hbox (35.24236pt too wide) in paragraph at lines 55--77
-[][] [] []
+Overfull \hbox (35.24236pt too wide) in paragraph at lines 55--76
+[][] [] [] 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 82.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 83.
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 82--83
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 83--84
 [][][][][][][] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 105--106
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 106--107
 [][][][][][][] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 121--122
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 122--123
 [][][][][][][] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 169--170
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 170--171
 [][][][][][][] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 180.
+(Font)              <12> on input line 181.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 180.
+(Font)              <8> on input line 181.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 180.
+(Font)              <6> on input line 181.
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 180.
+(Font)              scaled to size 8.0pt on input line 181.
 
-Overfull \hbox (47.77315pt too wide) in paragraph at lines 172--184
+Overfull \hbox (47.77315pt too wide) in paragraph at lines 173--185
 [][] [] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 191--192
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 192--193
 [][][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/sl' in size <12> not available
-(Font)              Font shape `OT1/Crimson-TLF/m/it' tried instead on input line 203.
+(Font)              Font shape `OT1/Crimson-TLF/m/it' tried instead on input line 204.
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 203.
+(Font)              scaled to size 12.0pt on input line 204.
 
 Overfull \hbox (8.54279pt too wide) has occurred while \output is active
  [][][][][][][]| 
@@ -502,29 +502,29 @@ This may cause the page layout to be inconsistent, however.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 208--209
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 209--210
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 212--212
+Underfull \hbox (badness 1019) in paragraph at lines 213--213
 []\OT1/Crimson-TLF/b/n/12 Effect of Ex-ter-nal Field on the IV Char-ac-ter-is-tics through the Molec-u-lar Nano-
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 230--231
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 231--232
 [][][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `OT1/Crimson-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 234.
+(Font)              scaled to size 12.0pt on input line 235.
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 246--247
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 247--248
 [][][][][][][] 
  []
 
 
-Overfull \hbox (8.54279pt too wide) in paragraph at lines 260--261
+Overfull \hbox (8.54279pt too wide) in paragraph at lines 261--262
 [][][][][][][] 
  []
 
@@ -543,7 +543,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  39i,13n,45p,1052b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/crimson/crm_n3gbj7.enc}{/usr/share/texmf-dist/fonts/enc/dvips/crimson/crm_wttfgh.enc}{/usr/share/texmf-dist/fonts/enc/dvips/crimson/crm_qrsm2e.enc}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb></usr/share/texmf-dist/fonts/type1/kosch/crimson/Crimson-BoldItalic.pfb></usr/share/texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb></usr/share/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "/run/media/lu/Projects/About/Curricula Vitae/CV.pdf" (2 pages, 229197 bytes).
+Output written on "/run/media/lu/Projects/About/Curricula Vitae/CV.pdf" (2 pages, 229193 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
