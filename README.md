@@ -30,7 +30,7 @@ This repository is used to collect and express thoughts, it can also be regarded
 ## Contact Me
 
 * E-Mail: LukeNiu@outlook.com
-* GitHub: github.com/ConAntares
+* GitHub: github.com/Photonica
 * ZhiHu: Luke Neo
 * WeChat: ConAntares
 * QQ: 164362195
