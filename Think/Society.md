@@ -1,8 +1,9 @@
 # Society
 
-* Warning: 非请勿入
+* 警告: 非请勿入  
+* Warning: No Admittance  
 
-## System
+## Social System
 
 * 我认为再差的民主政权也好过最好的独裁政权.  
   I think the worst democracy is better than the best dictatorship.  
