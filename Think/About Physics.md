@@ -57,6 +57,9 @@ LukeNiu@outlook.com
 * Condensed Matter Physics is the field of physics that deals with the macroscopic and microscopic physical properties of matter.  
     &emsp; &emsp; &emsp; &emsp; - Steven H. Simon
 
+* We understand very well the microscopic theory of a system, but then we discover that macroscopic properties emerge from the system that we did not expect.  
+    &emsp; &emsp; &emsp; &emsp; - Steven H. Simon
+
 ## Mathematical Physics and Mathematics
 
 * It is said that mathematics is the language of Nature. If so, then physics is its poetry.  
