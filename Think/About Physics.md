@@ -6,7 +6,7 @@
 &emsp; Lu Niu  
 LukeNiu@outlook.com
 
-## Physics
+## General Physics
 
 * 物理学是研究物质, 能量, 和它们的相互作用的学科.  
     &emsp; &emsp; &emsp; &emsp; - 第23界国际纯粹物理与应用物理脸和会议决议, 1999, @ 亚特兰大.
@@ -44,13 +44,18 @@ LukeNiu@outlook.com
 ## Relativity
 
 * To Einstein, it was very obvious that nature would not design a system, in which mechanical laws are the same, but laws of electricity are different.  
-    &emsp; &emsp; &emsp; &emsp; - Ramamurti Shankar @ YALE.
+    &emsp; &emsp; &emsp; &emsp; - Ramamurti Shankar @ YALE
 
 * We have faith that the underlying laws of nature will have a certain elegance and a certain beauty, and a certain uniformity across all of natural phenomena. That is a faith that we have. It is not a religious issue.  
-    &emsp; &emsp; &emsp; &emsp; - Ramamurti Shankar @ YALE.
+    &emsp; &emsp; &emsp; &emsp; - Ramamurti Shankar @ YALE
 
 * 如果一个事件从一个参考系观测可以发生, 从另一个参考系观测必然也可以发生. 事件的发生与否与参考系的选取无关.  
-    &emsp; &emsp; &emsp; &emsp; - box 君 @ PKU.
+    &emsp; &emsp; &emsp; &emsp; - box 君 @ PKU
+
+## Condensed Matter Physics
+
+* Condensed Matter Physics is the field of physics that deals with the macroscopic and microscopic physical properties of matter.  
+    &emsp; &emsp; &emsp; &emsp; - Steven H. Simon
 
 ## Mathematical Physics and Mathematics
 
