@@ -41,6 +41,9 @@ LukeNiu@outlook.com
 * 现代科学有两个来源, 一是古希腊公理逻辑传统, 二是近代实验传统.  
     &emsp; &emsp; &emsp; &emsp; - Albert Einstein
 
+* 我研究的不是东方物理, 也不是西方物理, 而是物理.  
+    &emsp; &emsp; &emsp; &emsp; - 方励之
+
 ## Relativity
 
 * To Einstein, it was very obvious that nature would not design a system, in which mechanical laws are the same, but laws of electricity are different.  
