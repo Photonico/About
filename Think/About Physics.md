@@ -6,6 +6,12 @@
 &emsp; Lu Niu  
 LukeNiu@outlook.com
 
+## Scientific Philosophy
+
+* 我们所感知到的外在世界，本质上是一个没有分别的整体.  
+* The world we perceive is intrinsically one whole.  
+    &emsp; &emsp; &emsp; &emsp; - Claude Levi-Strauss
+
 ## General Physics
 
 * 物理学是研究物质, 能量, 和它们的相互作用的学科.  
@@ -35,16 +41,13 @@ LukeNiu@outlook.com
 * If you couldn't explain something simply, you didn't understand it.  
     &emsp; &emsp; &emsp; &emsp; - Richard Feynman
 
-* 量子现象不是发生在希尔伯特空间中, 而是发生在实验室里.  
-    &emsp; &emsp; &emsp; &emsp; - Asher Peres
-
 * 现代科学有两个来源, 一是古希腊公理逻辑传统, 二是近代实验传统.  
     &emsp; &emsp; &emsp; &emsp; - Albert Einstein
 
 * 我研究的不是东方物理, 也不是西方物理, 而是物理.  
     &emsp; &emsp; &emsp; &emsp; - 方励之
 
-## Relativity
+## Classical Physics
 
 * To Einstein, it was very obvious that nature would not design a system, in which mechanical laws are the same, but laws of electricity are different.  
     &emsp; &emsp; &emsp; &emsp; - Ramamurti Shankar @ YALE
@@ -54,6 +57,11 @@ LukeNiu@outlook.com
 
 * 如果一个事件从一个参考系观测可以发生, 从另一个参考系观测必然也可以发生. 事件的发生与否与参考系的选取无关.  
     &emsp; &emsp; &emsp; &emsp; - box 君 @ PKU
+
+## Quantum Mechanics
+
+* 量子现象不是发生在希尔伯特空间中, 而是发生在实验室里.  
+    &emsp; &emsp; &emsp; &emsp; - Asher Peres
 
 ## Condensed Matter Physics
 
