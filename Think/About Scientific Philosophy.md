@@ -12,6 +12,10 @@ LukeNiu@outlook.com
 * The world we perceive is intrinsically one whole.  
     &emsp; &emsp; &emsp; &emsp; - Claude Levi-Strauss
 
+* 隐喻才是人类理解抽象概念的主要认知机制.  
+* Metaphor is central to cognitive process of abstract concepts.  
+    &emsp; &emsp; &emsp; &emsp; - George Lakoff
+
 ## General Physics
 
 * 物理学是研究物质, 能量, 和它们的相互作用的学科.  
