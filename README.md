@@ -22,7 +22,7 @@ This repository is used to collect and express thoughts, it can also be regarded
 ### Other
 
 * Basketball
-* Painting
+* Fitness
 * Guitar
 * Mixed Martial Arts
 * DOTA2  
@@ -31,10 +31,6 @@ This repository is used to collect and express thoughts, it can also be regarded
 
 * E-Mail: LukeNiu@outlook.com
 * GitHub: github.com/Photonica
-* ZhiHu: Luke Neo
-* WeChat: ConAntares
-* QQ: 164362195
-* QQ Group: 436192270
 
 &emsp; Sincerely,  
 &emsp; Lu Niu  
