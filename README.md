@@ -24,7 +24,7 @@ This repository is used to collect and express thoughts, it can also be regarded
 * Basketball
 * Fitness
 * Guitar
-* Mixed Martial Arts
+* Boxing
 * DOTA2  
 
 ## Contact Me
