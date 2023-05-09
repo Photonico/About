@@ -15,8 +15,8 @@ This repository serves as a collection and creative outlet for my thoughts and i
 
 #### Digital Design
 
-* [Photonica](https://github.com/Photonico/Photonica): A collection of VSCode themes, featuring both light and dark variations for your preference
-* [Photonico Code](https://github.com/Photonico/Photonico_Code): A monospace font with a serif design, ideal for coding purposes
+* [Photonica](https://github.com/Photonico/Photonica): A free collection of VSCode themes, featuring both light and dark variations for your preference
+* [Photonico Code](https://github.com/Photonico/Photonico_Code): A free monospace font with a serif design, ideal for coding purposes
 * [My Templates](https://github.com/Photonico/Templates): My templates for CV and presentation
 
 ### Presentation
