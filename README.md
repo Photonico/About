@@ -18,6 +18,10 @@ This repository serves as a collection and creative outlet for my thoughts and i
 ### Lecture notes
 
 * Mathematical Analysis and Calculus
+* An Introduction to Statistics
+* Electrodynamics
+* Quantum Physics
+* Quantum Optics
 
 ## My Interests
 
@@ -28,9 +32,9 @@ This repository serves as a collection and creative outlet for my thoughts and i
 
 ### Other
 
-* Basketball
-* Fitness
-* Photograph
+I have been playing basketball for many years and also enjoy fitness, boxing, and gymnastics. In addition to sports, I have a passion for photography and aspire to learn the guitar.
+
+## Publishes
 
 ## Contact Me
 
