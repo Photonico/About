@@ -2,8 +2,6 @@
 
 ![Open Source](https://github.com/ConAntares/Temples/blob/master/Attachments/OpenSource.svg) [![MIT License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
 
-[My Flickr Album](https://www.flickr.com/photos/182418029@N02/)
-
 ## This Repository
 
 This repository serves as a collection and creative outlet for my thoughts and ideas, and can also be considered my personal homepage or blog.
@@ -42,7 +40,7 @@ This repository serves as a collection and creative outlet for my thoughts and i
 
 ### Other
 
-I have been playing basketball for many years and also enjoy fitness, boxing, and gymnastics. In addition to sports, I have a passion for photography and aspire to learn the guitar.
+I have been playing basketball for many years and also enjoy fitness, boxing, and gymnastics. In addition to sports, I have a passion for photography, I display my photography work on [my Flickr page](https://www.flickr.com/photos/182418029@N02/). Learning to play the guitar is on my wishlist. To discover more about me, feel free to follow my Instagram.
 
 ## Publications
 
