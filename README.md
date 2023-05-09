@@ -19,7 +19,7 @@ This repository serves as a collection and creative outlet for my thoughts and i
 * [Photonico Code](https://github.com/Photonico/Photonico_Code): A free monospace font with a serif design, ideal for coding purposes
 * [My Templates](https://github.com/Photonico/Templates): My templates for CV and presentation
 
-### Presentation
+### Presentations
 
 * [An Introduction to Plasmonics](https://github.com/Photonico/An_Introduction_to_Plasmonics/tree/main)
 
@@ -38,7 +38,7 @@ This repository serves as a collection and creative outlet for my thoughts and i
 
 * Quantum Plasmonics
 
-### Other
+### Others
 
 I have been playing basketball for many years and also enjoy fitness, boxing, and gymnastics. In addition to sports, I have a passion for photography, I display my photography work on [my Flickr page](https://www.flickr.com/photos/182418029@N02/). Learning to play the guitar is on my wishlist. To discover more about me, feel free to follow my Instagram.
 
