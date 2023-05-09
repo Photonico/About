@@ -15,7 +15,7 @@ This repository serves as a collection and creative outlet for my thoughts and i
 
 * [An Introduction to Plasmonics](https://github.com/Photonico/An_Introduction_to_Plasmonics/tree/main)
 
-### Lecture notes
+### Handwriting lecture notes
 
 * Mathematical Analysis and Calculus
 * An Introduction to Statistics
