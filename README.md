@@ -2,6 +2,8 @@
 
 ![Open Source](https://github.com/ConAntares/Temples/blob/master/Attachments/OpenSource.svg) [![MIT License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseMIT.svg)](https://opensource.org/licenses/mit-license.php)
 
+[My Flickr Album](https://www.flickr.com/photos/182418029@N02/)
+
 ## This Repository
 
 This repository serves as a collection and creative outlet for my thoughts and ideas, and can also be considered my personal homepage or blog.
