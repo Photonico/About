@@ -6,7 +6,6 @@
 
 ## This Repository
 
-这个仓库只是我收集或者抒发自己感想的地方, 也可以把它看作我的个人主页或者博客.  
 This repository is used to collect and express thoughts, it can also be regarded as my personal home page or blog.
 
 ## My Interests
