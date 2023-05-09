@@ -21,6 +21,7 @@ This repository serves as a collection and creative outlet for my thoughts and i
 * An Introduction to Statistics
 * Electrodynamics
 * Quantum Physics
+* Advanced Quantum Mechanics
 * Quantum Optics
 
 ## My Interests
