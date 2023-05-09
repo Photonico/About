@@ -35,7 +35,7 @@ This repository serves as a collection and creative outlet for my thoughts and i
 
 I have been playing basketball for many years and also enjoy fitness, boxing, and gymnastics. In addition to sports, I have a passion for photography and aspire to learn the guitar.
 
-## Publishes
+## Publications
 
 ## Contact Me
 
