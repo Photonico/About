@@ -36,7 +36,6 @@ This repository serves as a collection and creative outlet for my thoughts and i
 
 ### Research Interests
 
-* Quantum Optics
 * Quantum Plasmonics
 
 ### Other
