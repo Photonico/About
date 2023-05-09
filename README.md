@@ -4,7 +4,20 @@
 
 ## This Repository
 
-This repository is used to collect and express thoughts, it can also be regarded as my personal home page or blog.
+This repository serves as a collection and creative outlet for my thoughts and ideas, and can also be considered my personal homepage or blog.
+
+### Opensource projects
+
+* [Computational Physics Topics](https://github.com/Photonico/Computational_Physics_Topics)
+* [Statistical Physics](https://github.com/Photonico/Statistical_Physics)
+
+### Presentation
+
+* [An Introduction to Plasmonics](https://github.com/Photonico/An_Introduction_to_Plasmonics/tree/main)
+
+### Lecture notes
+
+* Mathematical Analysis and Calculus
 
 ## My Interests
 
