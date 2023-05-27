@@ -1,14 +1,12 @@
 # A Journey into the Unknown: Learning Recommendation List for Physics: Learning Recommendation List for Physics
 
-## Physics
-
-### General Physics
+## General Physics
 
 * [book] The Feynman Lecture on Physics vol 1,2,3 by Richard Feynman
 
 * [book] Fundamentals of Physics vol 1,2 by Ramamurti Shankar
 
-### Classical Mechanics
+## Classical Mechanics
 
 * [book] Classical Mechanics by Tom Kibble
 
@@ -16,17 +14,17 @@
 
 * [lecture] Classical Mechanics by Marco Fabrichesi at ICTP
 
-### Electrodynamics
+## Electrodynamics
 
 * [book] Introduction to Electrodynamics by David J. Griffiths
 
 * [book] The Feynman Lecture on Physics vol 2 by Richard Feynman
 
-### Atom Molecular and Optics
+## Atom Molecular and Optics
 
 * [book] Principle of Optics, Max Born
 
-### Quantum Mechanics and Advanced Quantum Mechanics
+## Quantum Mechanics and Advanced Quantum Mechanics
 
 * [book] The Principle of Quantum Mechanics by P.A.M. Dirac
 
@@ -40,23 +38,23 @@
 
 * [book] Topics in Advanced Quantum Mechanics by Barry R. Holstein
 
-### Statistical Mechanics
+## Statistical Mechanics
 
 * [book] Statistical Physics of Particles by Mehran Kardar
 
 * [book] Statistical Physics of Fields by Mehran Kardar
 
-* [lecture] Statistical Physics of Particles by Mehran Kardar at MIT
+* [lecture] MIT 8.333 Statistical Physics of Particles by Mehran Kardar at MIT
 
-* [lecture] Statistical Physics of Fields by Mehran Kardar at MIT
+* [lecture] MIT 8.334 Statistical Physics of Fields by Mehran Kardar at MIT
 
 * [book] Statistical Mechanic by Werner Krauth
 
-### General Relativity
+## General Relativity
 
 * [book] General Theory of Relativity by P.A.M. Dirac
 
-### Quantum Optics
+## Quantum Optics
 
 * [book] Quantum Optics by D.F. Walls and Gerard Milburn
 
@@ -66,13 +64,21 @@
 
 * [Lecture] Quantum Optics by Alain Aspect at Coursera
 
-### Condensed Matter Physics
+## Condensed Matter Physics
 
 * [book] Quantum Field Theory and Condensed Matter - An Introduction by Ramamurti Shankar
 
 * [book] The Oxford Solid State Basics by Steven Simon
 
-### Mathematical Methods for Physics
+## Mathematical Methods
+
+* [Lecture] MIT 18.06 Linear Algebra by Gilbert Strang at MIT
+
+* [book] Linear Algebra Done Right by Sheldon Axler
+
+* [book] A Friendly Introduction to Analysis by Witold A.J. Kosmala
+
+* [book] Advanced Calculus by Patrick M. Fitzpatrick
 
 * [book] Mathematical Physics by S.Hassani
 
