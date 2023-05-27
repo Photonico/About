@@ -1,12 +1,12 @@
-# Book Recommendation List for Physics
+# A Journey into the Unknown: Learning Recommendation List for Physics: Learning Recommendation List for Physics
 
 ## Physics
 
 ### General Physics
 
-* The Feynman Lecture on Physics vol 1,2,3 by Richard Feynman
+* [book] The Feynman Lecture on Physics vol 1,2,3 by Richard Feynman
 
-* Fundamentals of Physics vol 1,2 by Ramamurti Shankar
+* [book] Fundamentals of Physics vol 1,2 by Ramamurti Shankar
 
 ### Classical Mechanics
 
