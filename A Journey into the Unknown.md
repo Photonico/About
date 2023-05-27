@@ -14,6 +14,8 @@
 
 * [lecture] Classical Mechanics by Marco Fabrichesi at ICTP
 
+* [book] GTM60 Mathematical Methods of Classical Mechanics by V. I. Arnold
+
 ## Electrodynamics
 
 * [book] Introduction to Electrodynamics by David J. Griffiths
@@ -44,9 +46,9 @@
 
 * [book] Statistical Physics of Fields by Mehran Kardar
 
-* [lecture] MIT 8.333 Statistical Physics of Particles by Mehran Kardar at MIT
+* [lecture] MIT8.333 Statistical Physics of Particles by Mehran Kardar at MIT
 
-* [lecture] MIT 8.334 Statistical Physics of Fields by Mehran Kardar at MIT
+* [lecture] MIT8.334 Statistical Physics of Fields by Mehran Kardar at MIT
 
 * [book] Statistical Mechanic by Werner Krauth
 
@@ -72,15 +74,23 @@
 
 ## Mathematical Methods
 
-* [Lecture] MIT 18.06 Linear Algebra by Gilbert Strang at MIT
+* [Lecture] MIT18.06 Linear Algebra by Gilbert Strang at MIT
 
 * [book] Linear Algebra Done Right by Sheldon Axler
+
+* [book] Calculus - Early Transcendentals by James Stewart
 
 * [book] A Friendly Introduction to Analysis by Witold A.J. Kosmala
 
 * [book] Advanced Calculus by Patrick M. Fitzpatrick
 
-* [book] Mathematical Physics by S.Hassani
+* [book] Mathematical Physics 2nd by S.Hassani
+
+* [book] Physical Mathematics 2nd by Kevin Cahill
+
+* [book] Mathematical Methods for Physicists by George B. Arfken
+
+* [book] Mathematical Physics by V. Balakrishnan
 
 * [book] Geometry Topology and Physics by Mikio Nakahara
 
