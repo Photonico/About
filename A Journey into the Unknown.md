@@ -10,66 +10,78 @@
 
 ### Classical Mechanics
 
-* Classical Mechanics by Tom Kibble
+* [book] Classical Mechanics by Tom Kibble
 
-* A Primer of Analytical Mechanics by Franco Strocchi
+* [book] A Primer of Analytical Mechanics by Franco Strocchi
+
+* [lecture] Classical Mechanics by Marco Fabrichesi at ICTP
 
 ### Electrodynamics
 
-* Introduction to Electrodynamics by David J. Griffiths
+* [book] Introduction to Electrodynamics by David J. Griffiths
 
-* The Feynman Lecture on Physics vol 2 by Richard Feynman
+* [book] The Feynman Lecture on Physics vol 2 by Richard Feynman
 
 ### Atom Molecular and Optics
 
-* Principle of Optics, Max Born
+* [book] Principle of Optics, Max Born
 
 ### Quantum Mechanics and Advanced Quantum Mechanics
 
-* The Principle of Quantum Mechanics by P.A.M. Dirac
+* [book] The Principle of Quantum Mechanics by P.A.M. Dirac
 
-* The Feynman Lecture on Physics vol3 by Richard Feynman
+* [book] The Feynman Lecture on Physics vol3 by Richard Feynman
 
-* Quantum Mechanics vol 1,2,3 by Claude Cohen-Tannoudji
+* [book] Quantum Mechanics vol 1,2,3 by Claude Cohen-Tannoudji
 
-* The Principle of Quantum Mechanics by Ramamurti Shankar
+* [book] The Principle of Quantum Mechanics by Ramamurti Shankar
 
-* Introduction to Quantum Mechanics by David J. Griffiths
+* [book] Introduction to Quantum Mechanics by David J. Griffiths
 
-* Topics in Advanced Quantum Mechanics by Barry R. Holstein
+* [book] Topics in Advanced Quantum Mechanics by Barry R. Holstein
 
 ### Statistical Mechanics
 
-* Statistical Physics of Particles by Mehran Kardar
+* [book] Statistical Physics of Particles by Mehran Kardar
 
-* Statistical Physics of Fields by Mehran Kardar
+* [book] Statistical Physics of Fields by Mehran Kardar
 
-* Statistical Mechanic by Werner Krauth
+* [lecture] Statistical Physics of Particles by Mehran Kardar at MIT
+
+* [lecture] Statistical Physics of Fields by Mehran Kardar at MIT
+
+* [book] Statistical Mechanic by Werner Krauth
 
 ### General Relativity
 
-* General Theory of Relativity by P.A.M. Dirac
+* [book] General Theory of Relativity by P.A.M. Dirac
 
 ### Quantum Optics
 
-* Quantum Optics by D.F. Walls and Gerard Milburn
+* [book] Quantum Optics by D.F. Walls and Gerard Milburn
 
-* Quantum Optics - Taming the Quantum by Pierre Meystre
+* [book] Quantum Optics - Taming the Quantum by Pierre Meystre
 
-* Nano and Quantum Optics by Ulrich Hohenester
+* [book] Nano and Quantum Optics by Ulrich Hohenester
 
-### Condensed Matter Physics (include Solid Physics and Materials Science)
+* [Lecture] Quantum Optics by Alain Aspect at Coursera
 
-* Quantum Field Theory and Condensed Matter - An Introduction by Ramamurti Shankar
+### Condensed Matter Physics
 
-* The Oxford Solid State Basics by Steven Simon
+* [book] Quantum Field Theory and Condensed Matter - An Introduction by Ramamurti Shankar
 
-### Mathematical Physics
+* [book] The Oxford Solid State Basics by Steven Simon
 
-* Mathematical Physics by S.Hassani
+### Mathematical Methods for Physics
 
-* Geometry Topology and Physics by Mikio Nakahara
+* [book] Mathematical Physics by S.Hassani
+
+* [book] Geometry Topology and Physics by Mikio Nakahara
+
+* [Lecture] Mathematical Methods in Physics 2021 by Alex Flournoy at Mines
 
 ## Other
 
-* On Writing Well, William Zinsser
+* [book] On Writing Well by William Zinsser
+
+* [Lecture] Writing in the Sciences by Kristin Sainani at Stanford
