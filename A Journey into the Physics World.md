@@ -1,4 +1,4 @@
-# A Journey into the Unknown: Learning Recommendation List for Physics: Learning Recommendation List for Physics
+# A Journey into the Physics World - A Learning Recommendation List
 
 ## General Physics
 
