@@ -1,306 +1,182 @@
 % Academic Curriculum Vitae
-% Copyright 2018 Lu Niu
-% Email: LukeNiu@outlook.com
-% GitHub: https://github.com/Photonico
+% Updated July 2026
+% Lu Niu
 
-\documentclass[12pt,a4paper,utf8]{report}
+\documentclass[11pt,a4paper]{article}
+
 \usepackage[dvipsnames]{xcolor}
 \usepackage[version=4]{mhchem}
-\usepackage{datetime}
 \usepackage{fancyhdr}
 \usepackage{geometry}
-\usepackage{titlesec}
-\usepackage{framed}
-\usepackage{color}
-\usepackage{tabto}
-% \usepackage{droid}    % serif font
-\usepackage{crimson}    % serif font
-\usepackage{helvet}     % sans serif font
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{crimson}
+\usepackage{helvet}
+\usepackage[hidelinks]{hyperref}
+\usepackage{microtype}
 
-\geometry{left=2.0cm,right=2.0cm,top=2.0cm,bottom=2.0cm}
-\pagestyle{fancy}
+\geometry{left=1.8cm,right=1.8cm,top=1.85cm,bottom=1.65cm}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\headheight}{18pt}
+\linespread{0.96}
+\urlstyle{same}
+
 \definecolor{shadecolor}{rgb}{0.0,0.5,0.8}
 \definecolor{subtitlecolor}{rgb}{0.5,0.8,0.9}
-\linespread{0.9}
 
-\newcommand{\namefont}[1]{{\normalfont\bfseries\Huge{#1}}}
+\newcommand{\namefont}[1]{{\normalfont\bfseries\Huge #1}}
 \newcommand{\myname}{Lu Niu}
-\newcommand{\mydegree}{PhD Candidate in Physics}
-\newcommand{\mywork}{\quad}%{Teaching Assistant on Analytical Mechanics}
-\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
+\newcommand{\mydegree}{PhD Candidate in Computational Condensed Matter Physics}
+\newcommand{\cvupdated}{July 2026}
 
+\newcommand{\cvsection}[1]{%
+    \vspace{0.32cm}%
+    \noindent\colorbox{subtitlecolor}{%
+        \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+            \textcolor{white}{\sffamily\large\quad #1}%
+        }%
+    }%
+    \par\vspace{0.14cm}%
+}
 
-\fancyhead[C]{
-    \colorbox{shadecolor}{\raisebox{0pt}[\height][0pt]{
-        \textcolor{white}{\textsf{\leftline{
-            \quad CURRICULUM VITAE
-}}}}}}
+\newcommand{\cvpublication}[1]{%
+    \hangindent=1.25em\hangafter=1 #1\par\vspace{0.10cm}%
+}
 
-% \fancyfoot[C]{\thepage}
+\newcommand{\cvproject}[3]{%
+    \textbf{#1}\par
+    \hfill\textit{#2}\par
+    #3\par\vspace{0.16cm}%
+}
 
-\renewcommand\headrulewidth{0.0pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{%
+    \colorbox{shadecolor}{%
+        \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+            \textcolor{white}{\sffamily\large\quad CURRICULUM VITAE}%
+        }%
+    }%
+}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
 
 \begin{document}
 
-\begin{minipage}[t]{8cm}
-    \begin{center}
-        \vspace{0.0cm}\namefont{\myname}\\[0.1cm]
-    \end{center}
-\end{minipage}
-\begin{minipage}[t]{8cm}
-    \vspace{0.0cm}
-    {\em{\mydegree}}\par
-    {\em{\mywork}}\par
-\end{minipage}
-
-\begin{minipage}[t]{8cm}
-    \vspace{0.4cm}
-    Condensed Matter Theory Group \\
-    School of Physics \\
-    The University of Sydney \\
-    Sydney, NSW 2006, Australia\\
-\end{minipage}
-\begin{minipage}[t]{1.5cm}
-    \vspace{0.4cm}
-    Email: \\
-    Web: \\
-    GitHub: \\
-    Phone: \\
-\end{minipage}
-\begin{minipage}[t]{8cm}
-    \vspace{0.4cm}
-    LukeNiu@outlook.com\\
-    condensed.physics.sydney.edu.au/luke.html \\
-    github.com/Photonico \\
-    +61 0451116402 \\
+\begin{minipage}[t]{0.47\textwidth}
+    \vspace{0pt}
+    \centering
+    \namefont{\myname}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.49\textwidth}
+    \vspace{0.12cm}
+    \raggedright
+    \emph{\mydegree}\\[0.06cm]
+    \emph{Thesis submitted June 2026}
 \end{minipage}
 
-%\vspace{-0.2cm}
+\vspace{0.28cm}
 
-\begin{minipage}[t]{16cm}
-    \colorbox{subtitlecolor}{\raisebox{0pt}[10.0pt][1.0pt]{
-        \textcolor{white}{\textsf{\leftline{
-            \quad Personal Information
-    }}}}}
-\end{minipage}\par
-\vspace{0.2cm}
-    \begin{minipage}[t]{4cm}
-        \qquad \textbf{Gender:}\par
-        % \qquad \textbf{Date of Birth:}\par
-        % \qquad \textbf{Place of Birth:}\par
-        \qquad \textbf{Nationality:}\par
-        \qquad \textbf{Office:}\par
-    \end{minipage}
-    \begin{minipage}[t]{12cm}
-        Male \par
-        % May 12, 1993 \par
-        % Huairou District, Beijing, P.R.China \par
-        P.R. China \par
-        Room 443, School of Physics A28 \par
-    \end{minipage}\par
-\vspace{0.4cm}
-
-\begin{minipage}[t]{16cm}
-    \colorbox{subtitlecolor}{\raisebox{0pt}[10.0pt][1.0pt]{
-        \textcolor{white}{\textsf{\leftline{
-            \quad Research Interests
-    }}}}}
-\end{minipage}\par
-\vspace{0.2cm}\hspace{0.5cm}
-\quad Physics of Complexity System, Topological Structure, AI for Physics
-    % \begin{minipage}[t]{15.0cm}
-    %     {\textbf{Computational Physics:}}\par
-    %     \quad My research interests include computational physics, especially for molecular systems. Using density functional theory to solve electric and optical properties of specific system.
-    % \par\vspace{0.2cm}
-    %     {\textbf{Machine learning in Physics:}}\par
-    %     \quad Machine learning in Physics.
-    % \end{minipage}\par
-\vspace{0.4cm}
-
-\begin{minipage}[t]{16cm}
-    \colorbox{subtitlecolor}{\raisebox{0pt}[10.0pt][1.0pt]{
-        \textcolor{white}{\textsf{\leftline{
-            \quad Education
-    }}}}}
-\end{minipage}\par
-\vspace{0.2cm}\hspace{0.5cm}
-\begin{minipage}[t]{15.0cm}
-    {{\textbf{University of Sydney}}}\hfill
-    {\em{2021 -- 2026}}\par\vspace{0.1cm}
-    {\qquad\em{PhD of Science in Physics}}\par
-\end{minipage}\par
-\vspace{0.1cm}
-    \begin{minipage}[t]{4cm}
-        \qquad \textbf{Subject:}\par
-        \qquad \textbf{Thesis:}\par
-        \qquad \par
-        \qquad \par
-        % \qquad \textbf{GPA:}\par
-        \qquad \textbf{Supervisor:}\par
-    \end{minipage}
-    \begin{minipage}[t]{11cm}
-        Condensed Matter Physics\par
-        Exploring Quantum Properties of Light-Element Xenes: DFT Studies of the Electronic Structure and Optical Response for Boron and Beryllium Allotropes\par
-        % Expected\par
-        Catherine Stampfl\par
-    \end{minipage}\par
-\vspace{0.2cm}\hspace{0.5cm}
-\begin{minipage}[t]{15.0cm}
-    {{\textbf{University of Science and Technology Beijing}}}\hfill
-    {\em{2015 -- 2017}}\par\vspace{0.1cm}
-    {\qquad\em{Master (Research) of Science in Physics}}\par
-\end{minipage}\par
-\vspace{0.1cm}
-    \begin{minipage}[t]{4cm}
-        \qquad \textbf{Subject:}\par
-        \qquad \textbf{Thesis:}\par
-        \qquad \par
-        % \qquad \textbf{GPA:}\par
-        \qquad \textbf{Supervisor:}\par
-    \end{minipage}
-    \begin{minipage}[t]{11cm}
-        Atom and Molecular Physics\par
-        Effect of External Field on the IV Characteristics through the Molecular Nano-junction\par
-        % 3.6\par
-        Luxia Wang\par
-    \end{minipage}\par
-\vspace{0.4cm}
-
-\begin{minipage}[t]{16cm}
-    \colorbox{subtitlecolor}{\raisebox{0pt}[10.0pt][1.0pt]{
-        \textcolor{white}{\textsf{\leftline{
-            \quad Expertise and Technical Strengths
-    }}}}}
-\end{minipage}\par
-\vspace{0.2cm}
-    \begin{minipage}[t]{4cm}
-        \qquad \textbf{Expertise:}\par
-        \qquad \textbf{Programming:}\par
-        \qquad \textbf{Software:}\par
-        % \qquad \par
-        \qquad \textbf{Language:}\par
-    \end{minipage}
-    \begin{minipage}[t]{14cm}
-        Quantum Mechanics, Computational Physics \par
-        Python, \LaTeX \par
-        Linux, Git, VASP, PyTorch\par
-        English, Mandarin Chinese (Native) \par
-    \end{minipage}\par
-\vspace{0.4cm}
-
-\begin{minipage}[t]{16cm}
-    \colorbox{subtitlecolor}{\raisebox{0pt}[10.0pt][1.0pt]{
-        \textcolor{white}{\textsf{\leftline{
-            \quad Academic Work Experience
-    }}}}}
-\end{minipage}\par
-\vspace{0.2cm}\hspace{0.5cm}
-\begin{minipage}[t]{15cm}
-    {{\textbf{University of Science and Technology Beijing}}}\par
-    \quad Teaching Assistant on Analytical Mechanics \hfill
-    {\em{Spring, 2017 and Spring, 2016}}\par
-    \quad Teaching Assistant on College Physics\hfill
-    {\em{Autumn, 2016 and Autumn, 2015}}\par
-\end{minipage}\par
-\vspace{0.4cm}
-
-% \newpage
-% \begin{minipage}[t]{16cm}
-%     \colorbox{subtitlecolor}{\raisebox{0pt}[10.0pt][1.0pt]{
-%         \textcolor{white}{\textsf{\leftline{
-%             \quad Research Experience
-%     }}}}}
-% \end{minipage}\par
-% \vspace{0.2cm}\hspace{0.5cm}
-% \begin{minipage}[t]{15cm}
-%     {\textbf{Electronic and Optical Properties of 2D Heterostructure Bilayers of Graphene, Borophene and 2D Boron Carbides from First Principles}}\par
-%     \qquad\qquad\qquad\qquad\qquad\qquad{\em{Sep. 2022 -- Sep. 2024 @ USyd, Sydney, Australia}}\par
-%     \quad This research focuses on the atomic, electronic, and optical properties of two-dimensional heterostructures (Graphene-\ce{BC3}, Graphene-Borophene, and Graphene-\ce{B4C3}) using first-principles calculations. We analyzed band gaps, plasmonic behavior, and anisotropic dielectric properties, highlighting their potential applications in optoelectronics and semiconductors.
-%     \par\vspace{0.2cm}
-
-%     {\textbf{Effect of External Field on the IV Characteristics through the Molecular Nano-junction}}\par
-%     \qquad\qquad\qquad\qquad\qquad\qquad{\em{Sep. 2016 -- Jun. 2017 @ USTB, Beijing, P.R.China}}\par
-%     \quad This research involves molecule physics. we analyzed the steady current between two electrodes under distinct bias voltages, and studied transient current under Gaussian pulse with different widths; we established the physical model of Molecular junction with external fields which could produce coupling with the molecule.
-%     \par\vspace{0.2cm}
-    
-%     {\textbf{Plasmon-Enhanced Heterogeneous Electron Transfer with Continuous Band Energy Model}}\par
-%     \qquad\qquad\qquad\qquad\qquad\qquad{\em{Apr. 2016 -- Mar. 2017 @ USTB, Beijing, P.R.China}}\par
-%     \quad We calculated the Plasmon-Enhanced heterogeneous electron transfer in semiconductor continuous model with the master equation. And simulated the physical model and conducted the scientific calculation.
-    
-%     \par\vspace{0.2cm}
-%     {\textbf{Molecular Emission Spectrum of Combined System and its Fourier Analysis}}\par
-%     \qquad\qquad\qquad\qquad\qquad\qquad{\em{Dec. 2015 -- Apr. 2016 @ USTB, Beijing, P.R.China}}\par
-%     \quad We probed into the emission spectrum of molecular with Fourier analysis. And built the equations set which describes the physical process of the molecule system excitation in the quantization radiation field.\par
-% \end{minipage}\par
-% \vspace{0.4cm}
-
-\begin{minipage}[t]{16cm}
-    \colorbox{subtitlecolor}{\raisebox{0pt}[10.0pt][1.0pt]{
-        \textcolor{white}{\textsf{\leftline{
-            \quad Publications
-    }}}}}
-\end{minipage}\par
-
-\vspace{0.2cm}\hspace{0.5cm}\begin{minipage}[t]{16cm}
-    {\textbf{\em{2024}}}\par
-    \quad Lu Niu, Oliver J. Conquest, Carla Verdi, Catherine Stampfl; {\em{Electronic and Optical Properties of 2D Heterostructure Bilayers of Graphene, Borophene and 2D Boron Carbides from First Principles}}; Nanomaterials. 2024; 14(20):1659.
-    \vspace{0.2cm}\par
+\begin{minipage}[t]{0.45\textwidth}
+    \vspace{0em}
+    Condensed Matter Theory Group\\
+    School of Physics\\
+    The University of Sydney\\
+    Sydney, NSW 2006, Australia
+\end{minipage}\hfill
+\begin{minipage}[t]{0.51\textwidth}
+    \vspace{0em}
+    \begin{tabular}{@{}>{\bfseries}p{1.45cm}l@{}}
+        Email: & \href{mailto:LukeNiu@outlook.com}{LukeNiu@outlook.com}\\
+        Web: & \href{https://condensed.physics.sydney.edu.au/luke.html}{condensed.physics.sydney.edu.au/luke.html}\\
+        GitHub: & \href{https://github.com/Photonico}{github.com/Photonico}\\
+        Phone: & +61 451 116 402
+    \end{tabular}
 \end{minipage}
 
-\vspace{0.2cm}\hspace{0.5cm}\begin{minipage}[t]{16cm}
-    {\textbf{\em{2018}}}\par
-    \quad Lu Niu, Luxia Wang*; {\em{Effect of External Field on the I-V Characteristics through the Molecular Nano-junction}} (in Chinese); Acta Physica Sinica, 67, 027304 (2018).
-    \vspace{0.2cm}\par
-\end{minipage}
+\cvsection{Research Interests}
+Computational condensed matter physics; topological matter; physics of complex systems; and AI for physics.
 
-\vspace{0.2cm}\hspace{0.5cm}\begin{minipage}[t]{16cm}
-    {\textbf{\em{2017}}}\par
-    \quad Dandan Zhao, Lu Niu, Luxia Wang*; {\em{Plasmon Enhanced Heterogeneous Electron Transfer with Continuous Band Energy Model}}; Chemical Physics, 493 (2017) 194-199.\par
-    \vspace{0.2cm}\par
-\end{minipage}\par
+\cvsection{Education}
 
-\begin{minipage}[t]{16cm}
-    \colorbox{subtitlecolor}{\raisebox{0pt}[10.0pt][1.0pt]{
-        \textcolor{white}{\textsf{\leftline{
-            \quad References and Activities
-    }}}}}
-\end{minipage}
+\textbf{The University of Sydney}\hfill\textit{2021--2026}\par
+\quad\emph{Doctor of Philosophy in Physics}\par
+\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{10em}X@{}}
+Field: & Condensed Matter Physics\\
+Thesis: & \emph{Exploring Quantum Properties of Light-Element Xenes: DFT Studies of the Electronic Structure and Optical Response for Boron and Beryllium Allotropes}\\
+Primary supervisor: & Professor Catherine Stampfl\\
+Associate supervisors: & Dr Carla Verdi
+\end{tabularx}
 
-\vspace{0.2cm}\hspace{0.5cm}\begin{minipage}[t]{15cm}
-    {\textbf{\em{2025}}}\par
-    \quad Feb. 2 -- Feb. 7,  The 47th Annual Condensed Matter and Materials Meeting, Wagga 2025. @ Brisbane, QLD 4072, Australia.\par
-    \vspace{0.2cm}\par
-\end{minipage}
+\vspace{1em}
+\textbf{University of Science and Technology Beijing}\hfill\textit{2015--2017}\par
+\quad\emph{Master of Research in Physics}\par
+\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{10em}X@{}}
+Field: & Atomic and Molecular Physics\\
+Thesis: & \emph{Effect of External Field on the I--V Characteristics through the Molecular Nano-junction}\\
+Supervisor: & Professor Luxia Wang
+\end{tabularx}
 
-\vspace{0.2cm}\hspace{0.5cm}\begin{minipage}[t]{15cm}
-    {\textbf{\em{2023}}}\par
-    \quad Jul. 10 -- Jul.12,  NSW Student Computational Chemistry Meeting. @ Kiama, NSW 2533, Australia.\par
-    \vspace{0.2cm}\par
-\end{minipage}
+\cvsection{Expertise and Technical Strengths}
+\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{4.0cm}X@{}}
+Theory and methods: & Density functional theory; quantum mechanics; many-body physics; linear response; Migdal--Eliashberg theory; phonons; topological band analysis\\
+Materials modelling: & Atomic-structure optimisation; electronic bands and densities of states; dielectric and optical properties; magnetism; superconductivity; two-dimensional materials and heterostructures\\
+Programming: & Python; \LaTeX\\
+Software and computing: & VASP; Linux; Git; PyTorch; high-performance computing, including NCI Australia\\
+Languages: & English; Mandarin Chinese (native)
+\end{tabularx}
 
-\vspace{0.2cm}\hspace{0.5cm}\begin{minipage}[t]{15cm}
-    {\textbf{\em{2016}}}\par
-    \quad Nov. 14 -- Nov.18, The 2nd Joint Workshop on Condensed Matter Science, Peking University \& IMPRS. @ PKU, Beijing, China, 100871.\par
-    \vspace{0.2cm}
-\end{minipage}\par
+\cvsection{Teaching and Tutoring Experience}
 
-% \begin{minipage}[t]{16cm}
-%     \colorbox{subtitlecolor}{\raisebox{0pt}[10.0pt][1.0pt]{
-%         \textcolor{white}{\textsf{\leftline{
-%             \quad Awards and Honors
-%     }}}}}
-% \end{minipage}\par
-% \vspace{0.2cm}\hspace{0.5cm}
-% \begin{minipage}[t]{15cm}
-%     % {\textbf{\em{2016}}}\par
-%     % \quad First-class Scholarship, University of Science and Technology Beijing.\par
-%     \vspace{0.2cm}
-% \end{minipage}\par
+\textbf{The University of Sydney}\par
+Tutor for a graduate-level course in quantum mechanics and mathematical methods during the PhD candidature. Developed detailed teaching notes covering linear algebra, operator formalism, and mathematical methods used in quantum mechanics.
 
-\vspace{0.4cm}
+\vspace{0.12cm}
+\textbf{University of Science and Technology Beijing}\par
+\begin{tabularx}{\textwidth}{@{}Xr@{}}
+Teaching Assistant in Analytical Mechanics & \textit{Spring 2016; Spring 2017}\\
+Teaching Assistant in College Physics & \textit{Autumn 2015; Autumn 2016}
+\end{tabularx}
 
-\begin{center}\vspace{1.0cm}
-    Updated \monthyeardate\today
+\newpage
+\cvsection{Selected Research Experience}
+
+\cvproject{Electronic and optical properties of graphene/boron-based two-dimensional heterostructures}{Published 2024}{First-principles investigation of Graphene--\ce{BC3}, Graphene--Borophene, and Graphene--\ce{B4C3}, including structural properties, band structures, densities of states, interfacial charge redistribution, Schottky barriers, dielectric response, and derived optical properties.}
+
+\cvproject{Functional properties of penta-bipyramid boron phases}{Published 2026}{First-principles study of bulk $o$-\ce{B14}, monolayer $o$-\ce{B14}, bilayer $o$-\ce{B14}, and the hydrogen-terminated bilayer. The work addresses semiconductivity, monolayer magnetism, superconductivity in the hydrogen-terminated bilayer, and anisotropic optical and plasmonic response.}
+
+\cvproject{Topological and optical properties of pristine and hydrogen-functionalized beryllene}{Manuscript in preparation}{Density functional theory study of pristine $\alpha$- and $\beta$-beryllene, a cubic trilayer phase, and hydrogen-functionalized derivatives, covering structural and dynamical stability, electronic properties, parity-based $Z_{2}$ topology, dielectric response, and derived optical properties.}
+
+\cvsection{Publications}
+
+\textbf{2026}\par
+\cvpublication{\textbf{Lu Niu}, Oliver J. Conquest, Hongyang Ma, Carla Verdi, and Catherine Stampfl, ``Superconductivity, Magnetism, and Directional Plasmonic Modes in Two-Dimensional Penta-Bipyramid Boron Allotropes,'' \emph{Physical Review Materials} \textbf{10}, 074001 (2026). \href{https://doi.org/10.1103/b2q9-fytt}{doi:10.1103/b2q9-fytt}.}
+
+\textbf{2024}\par
+\cvpublication{\textbf{Lu Niu}, Oliver J. Conquest, Carla Verdi, and Catherine Stampfl, ``Electronic and Optical Properties of 2D Heterostructure Bilayers of Graphene, Borophene and 2D Boron Carbides from First Principles,'' \emph{Nanomaterials} \textbf{14}, 1659 (2024). \href{https://doi.org/10.3390/nano14201659}{doi:10.3390/nano14201659}.}
+
+\textbf{2018}\par
+\cvpublication{\textbf{Lu Niu} and Luxia Wang, ``Effect of External Field on the I--V Characteristics through the Molecular Nano-junction'' (in Chinese), \emph{Acta Physica Sinica} \textbf{67}, 027304 (2018). \href{https://doi.org/10.7498/aps.67.20171604}{doi:10.7498/aps.67.20171604}.}
+
+\textbf{2017}\par
+\cvpublication{Dandan Zhao, \textbf{Lu Niu}, and Luxia Wang, ``Plasmon Enhanced Heterogeneous Electron Transfer with Continuous Band Energy Model,'' \emph{Chemical Physics} \textbf{493}, 194--199 (2017). \href{https://doi.org/10.1016/j.chemphys.2017.07.005}{doi:10.1016/j.chemphys.2017.07.005}.}
+
+\cvsection{Manuscript in Preparation}
+\cvpublication{\textbf{Lu Niu}, Oliver J. Conquest, Hongyang Ma, Carla Verdi, and Catherine Stampfl, ``Emergent Topological and Optical Properties in Pristine and Hydrogen-Functionalized Two-Dimensional Beryllium Phases,'' manuscript in preparation (2026).}
+
+\cvsection{Conferences and Academic Activities}
+
+\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{1.25cm}X@{}}
+2025 & The 47th Annual Condensed Matter and Materials Meeting (``Wagga 2025''), 4--7 February 2025, The University of Queensland, Brisbane, Australia.\\[0.08cm]
+2023 & NSW Student Computational Chemistry Meeting, 10--12 July 2023, The Sebel Harbourside Kiama, Kiama, Australia.\\[0.08cm]
+2016 & The 2nd Joint Workshop on Condensed Matter Science, Peking University and IMPRS, 14--18 November 2016, Peking University, Beijing, China.
+\end{tabularx}
+
+\vfill
+\begin{center}
+Updated \cvupdated
 \end{center}
 
 \end{document}
