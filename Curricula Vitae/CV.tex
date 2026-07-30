@@ -2,7 +2,7 @@
 % Updated July 2026
 % Lu Niu
 
-\documentclass[11pt,a4paper]{article}
+\documentclass[12pt,a4paper]{article}
 
 \usepackage[dvipsnames]{xcolor}
 \usepackage[version=4]{mhchem}
@@ -11,12 +11,11 @@
 \usepackage{tabularx}
 \usepackage{array}
 \usepackage{enumitem}
-\usepackage{crimson}
 \usepackage{courier}
 \usepackage[hidelinks]{hyperref}
 \usepackage{microtype}
 
-\geometry{ left=4em, right=4em, top=4em, bottom=4em}
+\geometry{left=4em,right=4em,top=4em,bottom=4em}
 \setlength{\parindent}{0em}
 \setlength{\parskip}{0em}
 \setlength{\headheight}{1.64em}
@@ -29,7 +28,7 @@
 
 \newcommand{\namefont}[1]{{\normalfont\bfseries\Huge #1}}
 \newcommand{\myname}{Lu Niu}
-\newcommand{\mydegree}{PhD Candidate in Computational Condensed Matter Physics}
+\newcommand{\mydegree}{PhD in Computational Condensed Matter Physics}
 \newcommand{\cvupdated}{July 2026}
 \newcommand{\cvtitlefont}{\ttfamily\bfseries}
 
@@ -43,6 +42,17 @@
     \par\vspace{0.36em}%
 }
 
+% Indents all content below each section heading while retaining normal page breaks.
+\newenvironment{cvbody}{%
+    \begingroup
+    \setlength{\leftskip}{1.25em}%
+    \setlength{\rightskip}{0em}%
+    \setlength{\parindent}{0em}%
+    \setlength{\linewidth}{\dimexpr\textwidth-1.25em\relax}%
+}{%
+    \par\endgroup
+}
+
 \newcommand{\cvpublication}[1]{%
     \hangindent=1.25em\hangafter=1 #1\par\vspace{1em}%
 }
@@ -52,7 +62,7 @@
     \hangindent=1.25em
     \hangafter=1
     #2\par
-    \vspace{1em}%
+    \vspace{0.5em}%
 }
 
 \newcommand{\cvproject}[3]{%
@@ -70,17 +80,19 @@
         }%
     }%
 }
+\fancyfoot[L]{\small Updated \cvupdated}
 \fancyfoot[C]{\thepage}
 \renewcommand{\headrulewidth}{0em}
 
 \begin{document}
 
-\begin{minipage}[t]{0.4\textwidth}
+\begin{cvbody}
+\begin{minipage}[t]{0.36\linewidth}
     \vspace{0em}
     \centering
     \namefont{\myname}
 \end{minipage}\hfill
-\begin{minipage}[t]{0.6\textwidth}
+\begin{minipage}[t]{0.62\linewidth}
     \vspace{0em}
     \raggedright
     \emph{\mydegree}\\
@@ -89,31 +101,36 @@
 
 \vspace{1em}
 
-\begin{minipage}[t]{0.4\textwidth}
+\begin{minipage}[t]{0.36\linewidth}
     \vspace{0em}
     Condensed Matter Theory Group\\
     School of Physics\\
     The University of Sydney\\
     Sydney, NSW 2006, Australia
 \end{minipage}\hfill
-\begin{minipage}[t]{0.6\textwidth}
+\begin{minipage}[t]{0.62\linewidth}
     \vspace{0em}
+    {\footnotesize
     \begin{tabular}{@{}>{\bfseries}p{3em}l@{}}
         Email: & \href{mailto:LukeNiu@outlook.com}{LukeNiu@outlook.com}\\
         Web: & \href{https://condensed.physics.sydney.edu.au/luke.html}{condensed.physics.sydney.edu.au/luke.html}\\
         GitHub: & \href{https://github.com/Photonico}{github.com/Photonico}\\
         Phone: & +61 451 116 402
-    \end{tabular}
+    \end{tabular}}
 \end{minipage}
+\end{cvbody}
 
 \cvsection{Research Interests}
-\quad Computational condensed matter physics; topological matter; physics of complex systems; and AI for physics.
+\begin{cvbody}
+Computational condensed matter physics; topological matter; physics of complex systems; and AI for physics.
+\end{cvbody}
 
 \cvsection{Education}
+\begin{cvbody}
 
 \textbf{The University of Sydney}\hfill\textit{2021--2026}\par
 \quad\emph{Doctor of Philosophy in Physics}\par
-\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{10em}X@{}}
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash\bfseries}p{12em}X@{}}
 Field: & Condensed Matter Physics\\
 Thesis: & \emph{Exploring Quantum Properties of Light-Element Xenes: DFT Studies of the Electronic Structure and Optical Response for Boron and Beryllium Allotropes}\\
 Primary supervisor: & Professor Catherine Stampfl\\
@@ -123,35 +140,46 @@ Associate supervisors: & Dr Carla Verdi
 \vspace{1em}
 \textbf{University of Science and Technology Beijing}\hfill\textit{2015--2017}\par
 \quad\emph{Master of Research in Physics}\par
-\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{10em}X@{}}
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash\bfseries}p{12em}X@{}}
 Field: & Atomic and Molecular Physics\\
 Thesis: & \emph{Effect of External Field on the I--V Characteristics through the Molecular Nano-junction}\\
 Supervisor: & Professor Luxia Wang
 \end{tabularx}
 
+\end{cvbody}
+
 \cvsection{Expertise and Technical Strengths}
-\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{10.35em}X@{}}
+\begin{cvbody}
+\begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash\bfseries}p{13em}X@{}}
 Theory and methods: & Density functional theory; quantum mechanics; many-body physics; topological matter\\
 % Materials modelling: & Atomic-structure optimisation; electronic bands and densities of states; dielectric and optical properties; magnetism; superconductivity; two-dimensional materials and heterostructures\\
 Programming: & Python; \LaTeX\\
-Software and computing: & VASP; Linux; Git; PyTorch;\\
+Software and computing: & VASP; Linux; Git; PyTorch\\
 Languages: & English; Mandarin Chinese (native)
 \end{tabularx}
+\end{cvbody}
 
 \cvsection{Teaching and Tutoring Experience}
+\begin{cvbody}
 
 \textbf{The University of Sydney}\par
-\quad Tutor for a graduate-level course in quantum mechanics and mathematical methods during the PhD candidature. Developed detailed teaching notes covering linear algebra, operator formalism, and mathematical methods used in quantum mechanics.
+Tutor for a graduate-level course in quantum mechanics and mathematical methods during the PhD candidature.
+Developed detailed teaching notes covering linear algebra,
+operator formalism,
+and mathematical methods used in quantum mechanics.
 
 \vspace{1em}
 \textbf{University of Science and Technology Beijing}\par
-\begin{tabularx}{\textwidth}{@{}Xr@{}}
+\begin{tabularx}{\linewidth}{@{}Xr@{}}
 Teaching Assistant in Analytical Mechanics & \textit{Spring 2016; Spring 2017}\\
 Teaching Assistant in College Physics & \textit{Autumn 2015; Autumn 2016}
 \end{tabularx}
 
+\end{cvbody}
+
 \newpage
 \cvsection{Selected Research Experience}
+\begin{cvbody}
 
 \cvproject{Electronic and optical properties of graphene/boron-based two-dimensional heterostructures}{Published 2024}{First-principles investigation of Graphene--\ce{BC3}, Graphene--Borophene, and Graphene--\ce{B4C3}, including structural properties, band structures, densities of states, interfacial charge redistribution, Schottky barriers, dielectric response, and derived optical properties.}
 
@@ -159,26 +187,35 @@ Teaching Assistant in College Physics & \textit{Autumn 2015; Autumn 2016}
 
 \cvproject{Topological and optical properties of pristine and hydrogen-functionalized beryllene}{Manuscript in preparation}{Density functional theory study of pristine $\alpha$- and $\beta$-beryllene, a cubic trilayer phase, and hydrogen-functionalized derivatives, covering structural and dynamical stability, electronic properties, parity-based $Z_{2}$ topology, dielectric response, and derived optical properties.}
 
+\end{cvbody}
+
 \cvsection{Publications}
+\begin{cvbody}
 
 \textbf{2026}\par
-\cvpublication{\textbf{Lu Niu}, Oliver J. Conquest, Hongyang Ma, Carla Verdi, and Catherine Stampfl, ``Superconductivity, Magnetism, and Directional Plasmonic Modes in Two-Dimensional Penta-Bipyramid Boron Allotropes,'' \emph{Physical Review Materials} \textbf{10}, 074001 (2026). \href{https://doi.org/10.1103/b2q9-fytt}{doi:10.1103/b2q9-fytt}.}
+\cvpublication{\textbf{Lu Niu}, Oliver J. Conquest, Hongyang Ma, Carla Verdi, and Catherine Stampfl, ``Superconductivity, Magnetism, and Directional Plasmonic Modes in Two-Dimensional Penta-Bipyramid Boron Allotropes,'' \emph{Physical Review Materials} \textbf{10}, 074001 (2026). \href{https://doi.org/10.1103/b2q9-fytt}{\nolinkurl{doi:10.1103/b2q9-fytt}}.}
 
 \textbf{2024}\par
-\cvpublication{\textbf{Lu Niu}, Oliver J. Conquest, Carla Verdi, and Catherine Stampfl, ``Electronic and Optical Properties of 2D Heterostructure Bilayers of Graphene, Borophene and 2D Boron Carbides from First Principles,'' \emph{Nanomaterials} \textbf{14}, 1659 (2024). \href{https://doi.org/10.3390/nano14201659}{doi:10.3390/nano14201659}.}
+\cvpublication{\textbf{Lu Niu}, Oliver J. Conquest, Carla Verdi, and Catherine Stampfl, ``Electronic and Optical Properties of 2D Heterostructure Bilayers of Graphene, Borophene and 2D Boron Carbides from First Principles,'' \emph{Nanomaterials} \textbf{14}, 1659 (2024). \href{https://doi.org/10.3390/nano14201659}{\nolinkurl{doi:10.3390/nano14201659}}.}
 
 \textbf{2018}\par
-\cvpublication{\textbf{Lu Niu} and Luxia Wang, ``Effect of External Field on the I--V Characteristics through the Molecular Nano-junction'' (in Chinese), \emph{Acta Physica Sinica} \textbf{67}, 027304 (2018). \href{https://doi.org/10.7498/aps.67.20171604}{doi:10.7498/aps.67.20171604}.}
+\cvpublication{\textbf{Lu Niu} and Luxia Wang, ``Effect of External Field on the I--V Characteristics through the Molecular Nano-junction'' (in Chinese), \emph{Acta Physica Sinica} \textbf{67}, 027304 (2018). \href{https://doi.org/10.7498/aps.67.20171604}{\nolinkurl{doi:10.7498/aps.67.20171604}}.}
 
 \textbf{2017}\par
-\cvpublication{Dandan Zhao, \textbf{Lu Niu}, and Luxia Wang, ``Plasmon Enhanced Heterogeneous Electron Transfer with Continuous Band Energy Model,'' \emph{Chemical Physics} \textbf{493}, 194--199 (2017). \href{https://doi.org/10.1016/j.chemphys.2017.07.005}{doi:10.1016/j.chemphys.2017.07.005}.}
+\cvpublication{Dandan Zhao, \textbf{Lu Niu}, and Luxia Wang, ``Plasmon Enhanced Heterogeneous Electron Transfer with Continuous Band Energy Model,'' \emph{Chemical Physics} \textbf{493}, 194--199 (2017). \href{https://doi.org/10.1016/j.chemphys.2017.07.005}{\nolinkurl{doi:10.1016/j.chemphys.2017.07.005}}.}
+
+\end{cvbody}
 
 \cvsection{Manuscript in Preparation}
+\begin{cvbody}
 
 \textbf{2026}\par
 \cvpublication{\textbf{Lu Niu}, Oliver J. Conquest, Hongyang Ma, Carla Verdi, and Catherine Stampfl, ``Emergent Topological and Optical Properties in Pristine and Hydrogen-Functionalized Two-Dimensional Beryllium Phases,'' manuscript in preparation (2026).}
 
+\end{cvbody}
+
 \cvsection{Conferences and Academic Activities}
+\begin{cvbody}
 
 \cvactivity{2025}{
 The 47th Annual Condensed Matter and Materials Meeting
@@ -206,9 +243,6 @@ Beijing,
 China.
 }
 
-\vfill
-\begin{center}
-Updated \cvupdated
-\end{center}
+\end{cvbody}
 
 \end{document}
