@@ -12,43 +12,53 @@
 \usepackage{array}
 \usepackage{enumitem}
 \usepackage{crimson}
-\usepackage{helvet}
+\usepackage{courier}
 \usepackage[hidelinks]{hyperref}
 \usepackage{microtype}
 
-\geometry{left=1.8cm,right=1.8cm,top=1.85cm,bottom=1.65cm}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{0pt}
-\setlength{\headheight}{18pt}
+\geometry{ left=4em, right=4em, top=4em, bottom=4em}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0em}
+\setlength{\headheight}{1.64em}
+\setlength{\fboxsep}{0.27em}
 \linespread{0.96}
 \urlstyle{same}
 
-\definecolor{shadecolor}{rgb}{0.0,0.5,0.8}
-\definecolor{subtitlecolor}{rgb}{0.5,0.8,0.9}
+\definecolor{shadecolor}{rgb}{0.25,0.45,0.75}
+\definecolor{subtitlecolor}{rgb}{0.25,0.75,0.85}
 
 \newcommand{\namefont}[1]{{\normalfont\bfseries\Huge #1}}
 \newcommand{\myname}{Lu Niu}
 \newcommand{\mydegree}{PhD Candidate in Computational Condensed Matter Physics}
 \newcommand{\cvupdated}{July 2026}
+\newcommand{\cvtitlefont}{\ttfamily\bfseries}
 
 \newcommand{\cvsection}[1]{%
-    \vspace{0.32cm}%
+    \vspace{0.83em}%
     \noindent\colorbox{subtitlecolor}{%
         \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
-            \textcolor{white}{\sffamily\large\quad #1}%
+            \textcolor{white}{\cvtitlefont\large\quad #1}%
         }%
     }%
-    \par\vspace{0.14cm}%
+    \par\vspace{0.36em}%
 }
 
 \newcommand{\cvpublication}[1]{%
-    \hangindent=1.25em\hangafter=1 #1\par\vspace{0.10cm}%
+    \hangindent=1.25em\hangafter=1 #1\par\vspace{1em}%
+}
+
+\newcommand{\cvactivity}[2]{%
+    \textbf{#1}\par
+    \hangindent=1.25em
+    \hangafter=1
+    #2\par
+    \vspace{1em}%
 }
 
 \newcommand{\cvproject}[3]{%
     \textbf{#1}\par
     \hfill\textit{#2}\par
-    #3\par\vspace{0.16cm}%
+    #3\par\vspace{1em}%
 }
 
 \pagestyle{fancy}
@@ -56,39 +66,39 @@
 \fancyhead[C]{%
     \colorbox{shadecolor}{%
         \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
-            \textcolor{white}{\sffamily\large\quad CURRICULUM VITAE}%
+            \textcolor{white}{\cvtitlefont\large\quad CURRICULUM VITAE}%
         }%
     }%
 }
 \fancyfoot[C]{\thepage}
-\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\headrulewidth}{0em}
 
 \begin{document}
 
-\begin{minipage}[t]{0.47\textwidth}
-    \vspace{0pt}
+\begin{minipage}[t]{0.4\textwidth}
+    \vspace{0em}
     \centering
     \namefont{\myname}
 \end{minipage}\hfill
-\begin{minipage}[t]{0.49\textwidth}
-    \vspace{0.12cm}
+\begin{minipage}[t]{0.6\textwidth}
+    \vspace{0em}
     \raggedright
-    \emph{\mydegree}\\[0.06cm]
+    \emph{\mydegree}\\
     \emph{Thesis submitted June 2026}
 \end{minipage}
 
-\vspace{0.28cm}
+\vspace{1em}
 
-\begin{minipage}[t]{0.45\textwidth}
+\begin{minipage}[t]{0.4\textwidth}
     \vspace{0em}
     Condensed Matter Theory Group\\
     School of Physics\\
     The University of Sydney\\
     Sydney, NSW 2006, Australia
 \end{minipage}\hfill
-\begin{minipage}[t]{0.51\textwidth}
+\begin{minipage}[t]{0.6\textwidth}
     \vspace{0em}
-    \begin{tabular}{@{}>{\bfseries}p{1.45cm}l@{}}
+    \begin{tabular}{@{}>{\bfseries}p{3em}l@{}}
         Email: & \href{mailto:LukeNiu@outlook.com}{LukeNiu@outlook.com}\\
         Web: & \href{https://condensed.physics.sydney.edu.au/luke.html}{condensed.physics.sydney.edu.au/luke.html}\\
         GitHub: & \href{https://github.com/Photonico}{github.com/Photonico}\\
@@ -97,7 +107,7 @@
 \end{minipage}
 
 \cvsection{Research Interests}
-Computational condensed matter physics; topological matter; physics of complex systems; and AI for physics.
+\quad Computational condensed matter physics; topological matter; physics of complex systems; and AI for physics.
 
 \cvsection{Education}
 
@@ -120,20 +130,20 @@ Supervisor: & Professor Luxia Wang
 \end{tabularx}
 
 \cvsection{Expertise and Technical Strengths}
-\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{4.0cm}X@{}}
-Theory and methods: & Density functional theory; quantum mechanics; many-body physics; linear response; Migdal--Eliashberg theory; phonons; topological band analysis\\
-Materials modelling: & Atomic-structure optimisation; electronic bands and densities of states; dielectric and optical properties; magnetism; superconductivity; two-dimensional materials and heterostructures\\
+\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{10.35em}X@{}}
+Theory and methods: & Density functional theory; quantum mechanics; many-body physics; topological matter\\
+% Materials modelling: & Atomic-structure optimisation; electronic bands and densities of states; dielectric and optical properties; magnetism; superconductivity; two-dimensional materials and heterostructures\\
 Programming: & Python; \LaTeX\\
-Software and computing: & VASP; Linux; Git; PyTorch; high-performance computing, including NCI Australia\\
+Software and computing: & VASP; Linux; Git; PyTorch;\\
 Languages: & English; Mandarin Chinese (native)
 \end{tabularx}
 
 \cvsection{Teaching and Tutoring Experience}
 
 \textbf{The University of Sydney}\par
-Tutor for a graduate-level course in quantum mechanics and mathematical methods during the PhD candidature. Developed detailed teaching notes covering linear algebra, operator formalism, and mathematical methods used in quantum mechanics.
+\quad Tutor for a graduate-level course in quantum mechanics and mathematical methods during the PhD candidature. Developed detailed teaching notes covering linear algebra, operator formalism, and mathematical methods used in quantum mechanics.
 
-\vspace{0.12cm}
+\vspace{1em}
 \textbf{University of Science and Technology Beijing}\par
 \begin{tabularx}{\textwidth}{@{}Xr@{}}
 Teaching Assistant in Analytical Mechanics & \textit{Spring 2016; Spring 2017}\\
@@ -164,15 +174,37 @@ Teaching Assistant in College Physics & \textit{Autumn 2015; Autumn 2016}
 \cvpublication{Dandan Zhao, \textbf{Lu Niu}, and Luxia Wang, ``Plasmon Enhanced Heterogeneous Electron Transfer with Continuous Band Energy Model,'' \emph{Chemical Physics} \textbf{493}, 194--199 (2017). \href{https://doi.org/10.1016/j.chemphys.2017.07.005}{doi:10.1016/j.chemphys.2017.07.005}.}
 
 \cvsection{Manuscript in Preparation}
+
+\textbf{2026}\par
 \cvpublication{\textbf{Lu Niu}, Oliver J. Conquest, Hongyang Ma, Carla Verdi, and Catherine Stampfl, ``Emergent Topological and Optical Properties in Pristine and Hydrogen-Functionalized Two-Dimensional Beryllium Phases,'' manuscript in preparation (2026).}
 
 \cvsection{Conferences and Academic Activities}
 
-\begin{tabularx}{\textwidth}{@{}>{\bfseries}p{1.25cm}X@{}}
-2025 & The 47th Annual Condensed Matter and Materials Meeting (``Wagga 2025''), 4--7 February 2025, The University of Queensland, Brisbane, Australia.\\[0.08cm]
-2023 & NSW Student Computational Chemistry Meeting, 10--12 July 2023, The Sebel Harbourside Kiama, Kiama, Australia.\\[0.08cm]
-2016 & The 2nd Joint Workshop on Condensed Matter Science, Peking University and IMPRS, 14--18 November 2016, Peking University, Beijing, China.
-\end{tabularx}
+\cvactivity{2025}{
+The 47th Annual Condensed Matter and Materials Meeting
+(``Wagga 2025''),
+4--7 February 2025,
+The University of Queensland,
+Brisbane,
+Australia.
+}
+
+\cvactivity{2023}{
+NSW Student Computational Chemistry Meeting,
+10--12 July 2023,
+The Sebel Harbourside Kiama,
+Kiama,
+Australia.
+}
+
+\cvactivity{2016}{
+The 2nd Joint Workshop on Condensed Matter Science,
+Peking University and IMPRS,
+14--18 November 2016,
+Peking University,
+Beijing,
+China.
+}
 
 \vfill
 \begin{center}
