@@ -33,14 +33,27 @@
 \newcommand{\cvupdated}{July 2026}
 \newcommand{\cvtitlefont}{\ttfamily\bfseries}
 
+% \newcommand{\cvsection}[1]{%
+%     \vspace{0.83em}%
+%     \noindent\colorbox{subtitlecolor}{%
+%         \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+%             \textcolor{white}{\cvtitlefont\large\quad #1}%
+%         }%
+%     }%
+%     \par\vspace{0.36em}%
+% }
+
 \newcommand{\cvsection}[1]{%
-    \vspace{0.83em}%
-    \noindent\colorbox{subtitlecolor}{%
-        \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
-            \textcolor{white}{\cvtitlefont\large\quad #1}%
+    \vspace{1.00em}%
+    \noindent
+    \colorbox{subtitlecolor}{%
+        \raisebox{0pt}[0.85em][0.15em]{%
+            \makebox[\dimexpr\textwidth-2\fboxsep\relax][l]{%
+                \textcolor{white}{\cvtitlefont\large\quad #1}%
+            }%
         }%
     }%
-    \par\vspace{0.36em}%
+    \par\vspace{1em}%
 }
 
 % Indents all content below each section heading while retaining normal page breaks.
@@ -215,6 +228,7 @@ Teaching Assistant in College Physics & \textit{Autumn 2015; Autumn 2016}
 
 \end{cvbody}
 
+\clearpage
 \cvsection{Conferences and Academic Activities}
 \begin{cvbody}
 
